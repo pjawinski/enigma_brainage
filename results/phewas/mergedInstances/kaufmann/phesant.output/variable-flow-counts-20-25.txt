@@ -1,0 +1,17 @@
+name,countValue
+catSin.case1,29
+catSin.case2,3
+catSin.case3,9
+cont.main,326
+cont.main.500,308
+int.catord,1
+int.continuous,10
+notinphenofile,2
+ordCat,30
+start.catSin,41
+start.cont,316
+start.int,42
+success.binary,9
+success.continuous,18
+success.ordCat,30
+success.unordCat,3

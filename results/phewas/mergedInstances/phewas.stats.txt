@@ -1,0 +1,145 @@
+
+Overall summary
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total           6646   6646     6646     6646       6646  6646 6646
+   meanRank           3.70   4.03     3.90     4.16       4.11  4.23 3.87
+    Nominal           1090    883      956      715        760   638  990
+        FDR            484    318      322      171        184    81  414
+ Bonferroni            202    107      136       76         69    27  172
+
+Category: Physical measures
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total            251    251      251      251        251   251  251
+   meanRank           3.17   4.14     4.00     4.19       4.33  4.76 3.41
+    Nominal            114     78       96       94         73    71  111
+        FDR             80     54       65       58         44    32   78
+ Bonferroni             54     35       47       37         26    16   49
+
+Category: Family history and early life factors
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total            106    106      106      106        106   106  106
+   meanRank           3.22   3.96     3.96     3.98       4.43  4.74 3.71
+    Nominal             37     25       34       25         20    18   34
+        FDR             26     16       11       11          7     2   23
+ Bonferroni             10      6        3        4          2     0    8
+
+Category: Blood and urine assays
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total            166    166      166      166        166   166  166
+   meanRank           3.45   4.40     3.34     4.08       4.13  4.55 4.04
+    Nominal             46     33       69       63         36    29   48
+        FDR             30     26       27       21         23     8   34
+ Bonferroni             22     15       15       15         17     3   23
+
+Category: Medical history and conditions
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total            253    253      253      253        253   253  253
+   meanRank           3.62   4.02     3.63     4.11       4.58  4.43 3.60
+    Nominal             57     48       53       40         38    31   62
+        FDR             37     20       32        8         16     5   36
+ Bonferroni             19      6       15        1          3     2   17
+
+Category: First occurrences
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total            957    957      957      957        957   957  957
+   meanRank           3.66   4.21     3.70     4.28       4.10  4.22 3.84
+    Nominal            150     90      139       74         98    74  121
+        FDR             57     27       41       11         14     8   47
+ Bonferroni             19      5       14        1          3     1   13
+
+Category: Sociodemographics
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total             97     97       97       97         97    97   97
+   meanRank           2.75   3.94     3.70     4.80       4.58  5.01 3.22
+    Nominal             46     35       38       31         29    22   49
+        FDR             38     24       23       16         14     7   35
+ Bonferroni             18     15       12        9          9     1   16
+
+Category: Lifestyle and environment
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total            181    181      181      181        181   181  181
+   meanRank           2.93   3.92     4.20     4.17       4.43  4.72 3.64
+    Nominal             88     68       67       66         64    52   75
+        FDR             59     42       30       26         19     8   44
+ Bonferroni             26     16        6        7          4     4   19
+
+Category: Medications
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total           1475   1475     1475     1475       1475  1475 1475
+   meanRank           3.94   4.12     3.97     3.97       4.04  4.03 3.92
+    Nominal            115     92       96       95         90    90  102
+        FDR             19      9       10        1          6     2   20
+ Bonferroni              5      1        2        0          2     0    4
+
+Category: Cognitive function
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total             73     73       73       73         73    73   73
+   meanRank           3.07   3.84     3.47     4.71       4.95  4.70 3.27
+    Nominal             33     28       33       15         19    14   33
+        FDR             21     13       14        4          9     5   19
+ Bonferroni             10      7       10        2          1     0   11
+
+Category: Maternity and sex-specific factors
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total             96     96       96       96         96    96   96
+   meanRank           3.53   4.23     4.28     4.34       3.90  4.41 3.31
+    Nominal             22     12       13        8         15    10   23
+        FDR             11      5        6        3          2     0    6
+ Bonferroni              3      0        2        0          1     0    5
+
+Category: Mental health
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total            249    249      249      249        249   249  249
+   meanRank           3.58   3.83     3.82     4.26       4.47  4.40 3.64
+    Nominal             69     58       60       33         41    28   66
+        FDR             33     14       22        2          7     2   29
+ Bonferroni              7      0        7        0          1     0    6
+
+Category: Hospital Inpatient - Administration
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total            501    501      501      501        501   501  501
+   meanRank           3.62   4.01     3.77     4.29       3.99  4.15 4.18
+    Nominal             89     66       78       47         68    57   70
+        FDR             35     16       21        6         10     1   17
+ Bonferroni              8      1        3        0          0     0    1
+
+Category: Diet by 24-hour recall
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total            414    414      414      414        414   414  414
+   meanRank           3.58   4.20     4.05     4.33       4.12  4.00 3.72
+    Nominal             77     46       54       39         40    37   65
+        FDR             21      4        8        2          6     1   13
+ Bonferroni              1      0        0        0          0     0    0
+
+Category: Digestive health
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total             52     52       52       52         52    52   52
+   meanRank           3.65   3.52     4.06     4.46       4.52  4.33 3.46
+    Nominal             10     10        7        4          3     4   12
+        FDR              4      3        0        2          0     0    2
+ Bonferroni              0      0        0        0          0     0    0
+
+Category: Work environment
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total           1073   1073     1073     1073       1073  1073 1073
+   meanRank           3.83   3.85     4.04     4.16       4.03  4.12 3.97
+    Nominal            101    102       89       56         79    77   87
+        FDR             10     18       10        0          5     0    5
+ Bonferroni              0      0        0        0          0     0    0
+
+Category: Cancer register
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total            580    580      580      580        580   580  580
+   meanRank           4.05   4.14     3.88     3.87       4.04  4.02 4.00
+    Nominal             25     27       27       23         27    22   31
+        FDR              3      2        2        0          2     0    6
+ Bonferroni              0      0        0        0          0     0    0
+
+Category: Physical activity
+    Measure brainageFactor enigma jawinski kaufmann leonardsen smith  wen
+      Total            122    122      122      122        122   122  122
+   meanRank           3.84   2.14     4.18     4.68       2.96  5.25 4.96
+    Nominal             11     65        3        2         20     2    1
+        FDR              0     25        0        0          0     0    0
+ Bonferroni              0      0        0        0          0     0    0
+

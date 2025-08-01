@@ -1,0 +1,490 @@
+23322_2|| INTEGER || SKIP Integer type but not numeric
+23323_2|| INTEGER || SKIP Integer type but not numeric
+23324_2|| INTEGER || SKIP Integer type but not numeric
+24003_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24004_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24005_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24006_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24007_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24008_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24009_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: ==500, bin 2: > 500 AND <14144bin 3: >=14144 || cat N: 251809, 8118, 8120 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+24010_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24011_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+24012_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24013_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: ==0, bin 2: > 0 AND <2344800bin 3: >=2344800 || cat N: 231772, 18137, 18138 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+24014_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(249662) || Inc(>=10): 1(18385) || CAT-SINGLE-BINARY || sample 249662/18385(268047) || SUCCESS results-logistic-binary 
+24015_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: ==0, bin 2: > 0 AND <181.355bin 3: >=181.355 || cat N: 229339, 19354, 19354 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+24016_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24017_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24018_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24019_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24020_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24021_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24022_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24500_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24501_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24502_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24503_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24504_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24505_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24506_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24507_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+24508_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25747_2 || Variable could not be found in pheno info file. 
+25748_2 || Variable could not be found in pheno info file. 
+25749_2 || Variable could not be found in pheno info file. 
+25750_2 || Variable could not be found in pheno info file. 
+25751_2 || Variable could not be found in pheno info file. 
+25752_2 || Variable could not be found in pheno info file. 
+25753_2 || Variable could not be found in pheno info file. 
+25754_2 || Variable could not be found in pheno info file. 
+25755_2 || Variable could not be found in pheno info file. 
+26410_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26411_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26412_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26413_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26414_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26415_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26416_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26417_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26418_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26419_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26420_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26421_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26422_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26423_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26424_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26425_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26426_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26427_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26428_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26430_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26431_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26432_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26433_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+26434_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27980_0 || Variable could not be found in pheno info file. 
+27981_0 || Variable could not be found in pheno info file. 
+27982_0 || Variable could not be found in pheno info file. 
+27983_0 || Variable could not be found in pheno info file. 
+27984_0 || Variable could not be found in pheno info file. 
+27985_0 || Variable could not be found in pheno info file. 
+27986_0 || Variable could not be found in pheno info file. 
+27989_0 || Variable could not be found in pheno info file. 
+27990_0 || Variable could not be found in pheno info file. 
+27991_0 || Variable could not be found in pheno info file. 
+27992_0 || Variable could not be found in pheno info file. 
+27993_0 || Variable could not be found in pheno info file. 
+29000_0 || Variable could not be found in pheno info file. 
+29001_0 || Variable could not be found in pheno info file. 
+29002_0 || Variable could not be found in pheno info file. 
+29003_0 || Variable could not be found in pheno info file. 
+29004_0 || Variable could not be found in pheno info file. 
+29005_0 || Variable could not be found in pheno info file. 
+29006_0 || Variable could not be found in pheno info file. 
+29007_0 || Variable could not be found in pheno info file. 
+29008_0 || Variable could not be found in pheno info file. 
+29009_0 || Variable could not be found in pheno info file. 
+29010_0 || Variable could not be found in pheno info file. 
+29011_0 || Variable could not be found in pheno info file. 
+29012_0 || Variable could not be found in pheno info file. 
+29013_0 || Variable could not be found in pheno info file. 
+29014_0 || Variable could not be found in pheno info file. 
+29015_0 || Variable could not be found in pheno info file. 
+29016_0 || Variable could not be found in pheno info file. 
+29017_0 || Variable could not be found in pheno info file. 
+29018_0 || Variable could not be found in pheno info file. 
+29019_0 || Variable could not be found in pheno info file. 
+29020_0 || Variable could not be found in pheno info file. 
+29021_0 || Variable could not be found in pheno info file. 
+29022_0 || Variable could not be found in pheno info file. 
+29023_0 || Variable could not be found in pheno info file. 
+29024_0 || Variable could not be found in pheno info file. 
+29025_0 || Variable could not be found in pheno info file. 
+29026_0 || Variable could not be found in pheno info file. 
+29027_0 || Variable could not be found in pheno info file. 
+29028_0 || Variable could not be found in pheno info file. 
+29029_0 || Variable could not be found in pheno info file. 
+29030_0 || Variable could not be found in pheno info file. 
+29031_0 || Variable could not be found in pheno info file. 
+29032_0 || Variable could not be found in pheno info file. 
+29033_0 || Variable could not be found in pheno info file. 
+29034_0 || Variable could not be found in pheno info file. 
+29035_0 || Variable could not be found in pheno info file. 
+29036_0 || Variable could not be found in pheno info file. 
+29037_0 || Variable could not be found in pheno info file. 
+29038_0 || Variable could not be found in pheno info file. 
+29039_0 || Variable could not be found in pheno info file. 
+29040_0 || Variable could not be found in pheno info file. 
+29041_0 || Variable could not be found in pheno info file. 
+29042_0 || Variable could not be found in pheno info file. 
+29043_0 || Variable could not be found in pheno info file. 
+29044_0 || Variable could not be found in pheno info file. 
+29045_0 || Variable could not be found in pheno info file. 
+29046_0 || Variable could not be found in pheno info file. 
+29047_0 || Variable could not be found in pheno info file. 
+29048_0 || Variable could not be found in pheno info file. 
+29049_0 || Variable could not be found in pheno info file. 
+29050_0 || Variable could not be found in pheno info file. 
+29051_0 || Variable could not be found in pheno info file. 
+29052_0 || Variable could not be found in pheno info file. 
+29053_0 || Variable could not be found in pheno info file. 
+29054_0 || Variable could not be found in pheno info file. 
+29055_0 || Variable could not be found in pheno info file. 
+29056_0 || Variable could not be found in pheno info file. 
+29057_0 || Variable could not be found in pheno info file. 
+29058_0 || Variable could not be found in pheno info file. 
+29059_0 || Variable could not be found in pheno info file. 
+29060_0 || Variable could not be found in pheno info file. 
+29061_0 || Variable could not be found in pheno info file. 
+29062_0 || Variable could not be found in pheno info file. 
+29063_0 || Variable could not be found in pheno info file. 
+29064_0 || Variable could not be found in pheno info file. 
+29065_0 || Variable could not be found in pheno info file. 
+29066_0 || Variable could not be found in pheno info file. 
+29067_0 || Variable could not be found in pheno info file. 
+29068_0 || Variable could not be found in pheno info file. 
+29069_0 || Variable could not be found in pheno info file. 
+29070_0 || Variable could not be found in pheno info file. 
+29071_0 || Variable could not be found in pheno info file. 
+29072_0 || Variable could not be found in pheno info file. 
+29073_0 || Variable could not be found in pheno info file. 
+29074_0 || Variable could not be found in pheno info file. 
+29075_0 || Variable could not be found in pheno info file. 
+29076_0 || Variable could not be found in pheno info file. 
+29077_0 || Variable could not be found in pheno info file. 
+29078_0 || Variable could not be found in pheno info file. 
+29079_0 || Variable could not be found in pheno info file. 
+29080_0 || Variable could not be found in pheno info file. 
+29081_0 || Variable could not be found in pheno info file. 
+29082_0 || Variable could not be found in pheno info file. 
+29083_0 || Variable could not be found in pheno info file. 
+29084_0 || Variable could not be found in pheno info file. 
+29085_0 || Variable could not be found in pheno info file. 
+29086_0 || Variable could not be found in pheno info file. 
+29087_0 || Variable could not be found in pheno info file. 
+29088_0 || Variable could not be found in pheno info file. 
+29089_0 || Variable could not be found in pheno info file. 
+29090_0 || Variable could not be found in pheno info file. 
+29091_0 || Variable could not be found in pheno info file. 
+29092_0 || Variable could not be found in pheno info file. 
+29093_0 || Variable could not be found in pheno info file. 
+29094_0 || Variable could not be found in pheno info file. 
+29095_0 || Variable could not be found in pheno info file. 
+29096_0 || Variable could not be found in pheno info file. 
+29097_0 || Variable could not be found in pheno info file. 
+29098_0 || Variable could not be found in pheno info file. 
+29099_0 || Variable could not be found in pheno info file. 
+29100_0 || Variable could not be found in pheno info file. 
+29101_0 || Variable could not be found in pheno info file. 
+29102_0 || Variable could not be found in pheno info file. 
+29103_0 || Variable could not be found in pheno info file. 
+29104_0 || Variable could not be found in pheno info file. 
+29105_0 || Variable could not be found in pheno info file. 
+29106_0 || Variable could not be found in pheno info file. 
+29107_0 || Variable could not be found in pheno info file. 
+29108_0 || Variable could not be found in pheno info file. 
+29109_0 || Variable could not be found in pheno info file. 
+29110_0 || Variable could not be found in pheno info file. 
+29111_0 || Variable could not be found in pheno info file. 
+29112_0 || Variable could not be found in pheno info file. 
+29113_0 || Variable could not be found in pheno info file. 
+29114_0 || Variable could not be found in pheno info file. 
+29115_0 || Variable could not be found in pheno info file. 
+29116_0 || Variable could not be found in pheno info file. 
+29117_0 || Variable could not be found in pheno info file. 
+29118_0 || Variable could not be found in pheno info file. 
+29119_0 || Variable could not be found in pheno info file. 
+29120_0 || Variable could not be found in pheno info file. 
+29121_0 || Variable could not be found in pheno info file. 
+29122_0 || Variable could not be found in pheno info file. 
+29123_0 || Variable could not be found in pheno info file. 
+29124_0 || Variable could not be found in pheno info file. 
+29125_0 || Variable could not be found in pheno info file. 
+29126_0 || Variable could not be found in pheno info file. 
+29127_0 || Variable could not be found in pheno info file. 
+29128_0 || Variable could not be found in pheno info file. 
+29129_0 || Variable could not be found in pheno info file. 
+29130_0 || Variable could not be found in pheno info file. 
+29131_0 || Variable could not be found in pheno info file. 
+29132_0 || Variable could not be found in pheno info file. 
+29133_0 || Variable could not be found in pheno info file. 
+29134_0 || Variable could not be found in pheno info file. 
+29135_0 || Variable could not be found in pheno info file. 
+29136_0 || Variable could not be found in pheno info file. 
+29137_0 || Variable could not be found in pheno info file. 
+29138_0 || Variable could not be found in pheno info file. 
+29139_0 || Variable could not be found in pheno info file. 
+29140_0 || Variable could not be found in pheno info file. 
+29141_0 || Variable could not be found in pheno info file. 
+29142_0 || Variable could not be found in pheno info file. 
+29143_0 || Variable could not be found in pheno info file. 
+29144_0 || Variable could not be found in pheno info file. 
+29145_0 || Variable could not be found in pheno info file. 
+29146_0 || Variable could not be found in pheno info file. 
+29147_0 || Variable could not be found in pheno info file. 
+29148_0 || Variable could not be found in pheno info file. 
+29149_0 || Variable could not be found in pheno info file. 
+29150_0 || Variable could not be found in pheno info file. 
+29151_0 || Variable could not be found in pheno info file. 
+29152_0 || Variable could not be found in pheno info file. 
+29153_0 || Variable could not be found in pheno info file. 
+29154_0 || Variable could not be found in pheno info file. 
+29155_0 || Variable could not be found in pheno info file. 
+29156_0 || Variable could not be found in pheno info file. 
+29157_0 || Variable could not be found in pheno info file. 
+29158_0 || Variable could not be found in pheno info file. 
+29159_0 || Variable could not be found in pheno info file. 
+29160_0 || Variable could not be found in pheno info file. 
+29161_0 || Variable could not be found in pheno info file. 
+29162_0 || Variable could not be found in pheno info file. 
+29163_0 || Variable could not be found in pheno info file. 
+29164_0 || Variable could not be found in pheno info file. 
+29165_0 || Variable could not be found in pheno info file. 
+29166_0 || Variable could not be found in pheno info file. 
+29167_0 || Variable could not be found in pheno info file. 
+29168_0 || Variable could not be found in pheno info file. 
+29169_0 || Variable could not be found in pheno info file. 
+29170_0 || Variable could not be found in pheno info file. 
+29171_0 || Variable could not be found in pheno info file. 
+29172_0 || Variable could not be found in pheno info file. 
+29173_0 || Variable could not be found in pheno info file. 
+29174_0 || Variable could not be found in pheno info file. 
+29175_0 || Variable could not be found in pheno info file. 
+29176_0 || Variable could not be found in pheno info file. 
+29177_0 || Variable could not be found in pheno info file. 
+29178_0 || Variable could not be found in pheno info file. 
+29179_0 || Variable could not be found in pheno info file. 
+29180_0 || Variable could not be found in pheno info file. 
+29181_0 || Variable could not be found in pheno info file. 
+29182_0 || Variable could not be found in pheno info file. 
+29183_0 || Variable could not be found in pheno info file. 
+29184_0 || Variable could not be found in pheno info file. 
+29185_0 || Variable could not be found in pheno info file. 
+29186_0 || Variable could not be found in pheno info file. 
+29187_0 || Variable could not be found in pheno info file. 
+29188_0 || Variable could not be found in pheno info file. 
+29189_0 || Variable could not be found in pheno info file. 
+29190_0 || Variable could not be found in pheno info file. 
+29191_0 || Variable could not be found in pheno info file. 
+29192_0 || Variable could not be found in pheno info file. 
+29193_0 || Variable could not be found in pheno info file. 
+29194_0 || Variable could not be found in pheno info file. 
+29195_0 || Variable could not be found in pheno info file. 
+29196_0 || Variable could not be found in pheno info file. 
+29197_0 || Variable could not be found in pheno info file. 
+29198_0 || Variable could not be found in pheno info file. 
+29199_0 || Variable could not be found in pheno info file. 
+29200_0 || Variable could not be found in pheno info file. 
+29201_0 || Variable could not be found in pheno info file. 
+29202_0 || Variable could not be found in pheno info file. 
+29203_0 || Variable could not be found in pheno info file. 
+29204_0 || Variable could not be found in pheno info file. 
+29205_0 || Variable could not be found in pheno info file. 
+29206_0 || Variable could not be found in pheno info file. 
+29207_0 || Variable could not be found in pheno info file. 
+29208_0 || Variable could not be found in pheno info file. 
+29209_0 || Variable could not be found in pheno info file. 
+29250_1 || Variable could not be found in pheno info file. 
+30000_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30001_0|| INTEGER || Inc(>=10): 0(262141) || SKIP (number of levels: 1)
+30002_0 || Variable could not be found in pheno info file. 
+30003_0 || Variable could not be found in pheno info file. 
+30004_0|| CAT-SINGLE || Inc(>=10): 2(168848) || Inc(>=10): 1(95338) || CAT-SINGLE-BINARY || sample 95338/168848(264186) || SUCCESS results-logistic-binary 
+30010_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30011_0|| INTEGER || Inc(>=10): 0(262144) || SKIP (number of levels: 1)
+30012_0 || Variable could not be found in pheno info file. 
+30013_0 || Variable could not be found in pheno info file. 
+30014_0|| CAT-SINGLE || Inc(>=10): 2(168851) || Inc(>=10): 1(95337) || CAT-SINGLE-BINARY || sample 95337/168851(264188) || SUCCESS results-logistic-binary 
+30020_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30021_0|| INTEGER || Inc(>=10): 0(262144) || SKIP (number of levels: 1)
+30022_0 || Variable could not be found in pheno info file. 
+30023_0 || Variable could not be found in pheno info file. 
+30024_0|| CAT-SINGLE || Inc(>=10): 2(168851) || Inc(>=10): 1(95337) || CAT-SINGLE-BINARY || sample 95337/168851(264188) || SUCCESS results-logistic-binary 
+30030_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30031_0|| INTEGER || Inc(>=10): 0(262144) || SKIP (number of levels: 1)
+30032_0 || Variable could not be found in pheno info file. 
+30033_0 || Variable could not be found in pheno info file. 
+30034_0|| CAT-SINGLE || Inc(>=10): 2(168851) || Inc(>=10): 1(95337) || CAT-SINGLE-BINARY || sample 95337/168851(264188) || SUCCESS results-logistic-binary 
+30040_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30041_0|| INTEGER || Inc(>=10): 0(262143) || SKIP (number of levels: 1)
+30042_0 || Variable could not be found in pheno info file. 
+30043_0 || Variable could not be found in pheno info file. 
+30044_0|| CAT-SINGLE || Inc(>=10): 2(168850) || Inc(>=10): 1(95338) || CAT-SINGLE-BINARY || sample 95338/168850(264188) || SUCCESS results-logistic-binary 
+30050_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30051_0|| INTEGER || Inc(>=10): 0(262143) || SKIP (number of levels: 1)
+30052_0 || Variable could not be found in pheno info file. 
+30053_0 || Variable could not be found in pheno info file. 
+30054_0|| CAT-SINGLE || Inc(>=10): 2(168851) || Inc(>=10): 1(95336) || CAT-SINGLE-BINARY || sample 95336/168851(264187) || SUCCESS results-logistic-binary 
+30060_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30061_0|| INTEGER || Inc(>=10): 0(262142) || SKIP (number of levels: 1)
+30062_0 || Variable could not be found in pheno info file. 
+30063_0 || Variable could not be found in pheno info file. 
+30064_0|| CAT-SINGLE || Inc(>=10): 2(168849) || Inc(>=10): 1(95338) || CAT-SINGLE-BINARY || sample 95338/168849(264187) || SUCCESS results-logistic-binary 
+30070_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30071_0|| INTEGER || Inc(>=10): 0(262143) || SKIP (number of levels: 1)
+30072_0 || Variable could not be found in pheno info file. 
+30073_0 || Variable could not be found in pheno info file. 
+30074_0|| CAT-SINGLE || Inc(>=10): 2(168850) || Inc(>=10): 1(95338) || CAT-SINGLE-BINARY || sample 95338/168850(264188) || SUCCESS results-logistic-binary 
+30080_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30081_0|| INTEGER || Inc(>=10): 0(262141) || SKIP (number of levels: 1)
+30082_0 || Variable could not be found in pheno info file. 
+30083_0 || Variable could not be found in pheno info file. 
+30084_0|| CAT-SINGLE || Inc(>=10): 2(168848) || Inc(>=10): 1(95337) || CAT-SINGLE-BINARY || sample 95337/168848(264185) || SUCCESS results-logistic-binary 
+30090_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30091_0|| INTEGER || Inc(>=10): 0(262138) || SKIP (number of levels: 1)
+30092_0 || Variable could not be found in pheno info file. 
+30093_0 || Variable could not be found in pheno info file. 
+30094_0|| CAT-SINGLE || Inc(>=10): 2(168845) || Inc(>=10): 1(95257) || CAT-SINGLE-BINARY || sample 95257/168845(264102) || SUCCESS results-logistic-binary 
+30100_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30101_0|| INTEGER || Inc(>=10): 0(262137) || SKIP (number of levels: 1)
+30102_0 || Variable could not be found in pheno info file. 
+30103_0 || Variable could not be found in pheno info file. 
+30104_0|| CAT-SINGLE || Inc(>=10): 2(168844) || Inc(>=10): 1(95337) || CAT-SINGLE-BINARY || sample 95337/168844(264181) || SUCCESS results-logistic-binary 
+30110_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30111_0|| INTEGER || Inc(>=10): 0(262137) || SKIP (number of levels: 1)
+30112_0 || Variable could not be found in pheno info file. 
+30113_0 || Variable could not be found in pheno info file. 
+30114_0|| CAT-SINGLE || Inc(>=10): 2(168844) || Inc(>=10): 1(95257) || CAT-SINGLE-BINARY || sample 95257/168844(264101) || SUCCESS results-logistic-binary 
+30120_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30121_0|| INTEGER || Inc(>=10): 0(261676) || SKIP (number of levels: 1)
+30122_0 || Variable could not be found in pheno info file. 
+30123_0 || Variable could not be found in pheno info file. 
+30124_0|| CAT-SINGLE || Inc(>=10): 2(168386) || Inc(>=10): 1(95340) || CAT-SINGLE-BINARY || sample 95340/168386(263726) || SUCCESS results-logistic-binary 
+30130_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30131_0|| INTEGER || Inc(>=10): 0(261673) || SKIP (number of levels: 1)
+30132_0 || Variable could not be found in pheno info file. 
+30133_0 || Variable could not be found in pheno info file. 
+30134_0|| CAT-SINGLE || Inc(>=10): 2(168386) || Inc(>=10): 1(95340) || CAT-SINGLE-BINARY || sample 95340/168386(263726) || SUCCESS results-logistic-binary 
+30140_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30141_0|| INTEGER || Inc(>=10): 0(261676) || SKIP (number of levels: 1)
+30142_0 || Variable could not be found in pheno info file. 
+30143_0 || Variable could not be found in pheno info file. 
+30144_0|| CAT-SINGLE || Inc(>=10): 2(168386) || Inc(>=10): 1(95340) || CAT-SINGLE-BINARY || sample 95340/168386(263726) || SUCCESS results-logistic-binary 
+30150_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30151_0|| INTEGER || Inc(>=10): 0(261634) || SKIP (number of levels: 1)
+30152_0 || Variable could not be found in pheno info file. 
+30153_0 || Variable could not be found in pheno info file. 
+30154_0|| CAT-SINGLE || Inc(>=10): 2(168386) || Inc(>=10): 1(95340) || CAT-SINGLE-BINARY || sample 95340/168386(263726) || SUCCESS results-logistic-binary 
+30160_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.01, bin 2: >=0.01AND < 0.03, bin 3: >=0.03 || cat N: 76442, 64375, 122909 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+30161_0|| INTEGER || Inc(>=10): 0(261124) || SKIP (number of levels: 1)
+30162_0 || Variable could not be found in pheno info file. 
+30163_0 || Variable could not be found in pheno info file. 
+30164_0|| CAT-SINGLE || Inc(>=10): 2(168386) || Inc(>=10): 1(95340) || CAT-SINGLE-BINARY || sample 95340/168386(263726) || SUCCESS results-logistic-binary 
+30170_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: ==0, bin 2: > 0 AND <0.16bin 3: >=0.16 || cat N: 261355, 1083, 1201 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+30171_0|| INTEGER || Inc(>=10): 0(260969) || SKIP (number of levels: 1)
+30172_0 || Variable could not be found in pheno info file. 
+30173_0 || Variable could not be found in pheno info file. 
+30174_0|| CAT-SINGLE || Inc(>=10): 2(168380) || Inc(>=10): 1(95259) || CAT-SINGLE-BINARY || sample 95259/168380(263639) || SUCCESS results-logistic-binary 
+30180_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30181_0|| INTEGER || Inc(>=10): 0(261679) || SKIP (number of levels: 1)
+30182_0 || Variable could not be found in pheno info file. 
+30183_0 || Variable could not be found in pheno info file. 
+30184_0|| CAT-SINGLE || Inc(>=10): 2(168389) || Inc(>=10): 1(95339) || CAT-SINGLE-BINARY || sample 95339/168389(263728) || SUCCESS results-logistic-binary 
+30190_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30191_0|| INTEGER || Inc(>=10): 0(261678) || SKIP (number of levels: 1)
+30192_0 || Variable could not be found in pheno info file. 
+30193_0 || Variable could not be found in pheno info file. 
+30194_0|| CAT-SINGLE || Inc(>=10): 2(168389) || Inc(>=10): 1(95339) || CAT-SINGLE-BINARY || sample 95339/168389(263728) || SUCCESS results-logistic-binary 
+30200_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30201_0|| INTEGER || Inc(>=10): 0(261679) || SKIP (number of levels: 1)
+30202_0 || Variable could not be found in pheno info file. 
+30203_0 || Variable could not be found in pheno info file. 
+30204_0|| CAT-SINGLE || Inc(>=10): 2(168389) || Inc(>=10): 1(95339) || CAT-SINGLE-BINARY || sample 95339/168389(263728) || SUCCESS results-logistic-binary 
+30210_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30211_0|| INTEGER || Inc(>=10): 0(261677) || SKIP (number of levels: 1)
+30212_0 || Variable could not be found in pheno info file. 
+30213_0 || Variable could not be found in pheno info file. 
+30214_0|| CAT-SINGLE || Inc(>=10): 2(168389) || Inc(>=10): 1(95339) || CAT-SINGLE-BINARY || sample 95339/168389(263728) || SUCCESS results-logistic-binary 
+30220_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30221_0|| INTEGER || Inc(>=10): 0(261671) || SKIP (number of levels: 1)
+30222_0 || Variable could not be found in pheno info file. 
+30223_0 || Variable could not be found in pheno info file. 
+30224_0|| CAT-SINGLE || Inc(>=10): 2(168389) || Inc(>=10): 1(95339) || CAT-SINGLE-BINARY || sample 95339/168389(263728) || SUCCESS results-logistic-binary 
+30230_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: ==0, bin 2: > 0 AND <2.2bin 3: >=2.2 || cat N: 261356, 1133, 1147 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+30231_0|| INTEGER || Inc(>=10): 0(260970) || SKIP (number of levels: 1)
+30232_0 || Variable could not be found in pheno info file. 
+30233_0 || Variable could not be found in pheno info file. 
+30234_0|| CAT-SINGLE || Inc(>=10): 2(168381) || Inc(>=10): 1(95259) || CAT-SINGLE-BINARY || sample 95259/168381(263640) || SUCCESS results-logistic-binary 
+30240_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30241_0|| INTEGER || Inc(>=10): 0(257942) || SKIP (number of levels: 1)
+30242_0 || Variable could not be found in pheno info file. 
+30243_0 || Variable could not be found in pheno info file. 
+30244_0|| CAT-SINGLE || Inc(>=10): 2(165011) || Inc(>=10): 1(94968) || CAT-SINGLE-BINARY || sample 94968/165011(259979) || SUCCESS results-logistic-binary 
+30250_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30251_0|| INTEGER || Inc(>=10): 0(257942) || SKIP (number of levels: 1)
+30252_0 || Variable could not be found in pheno info file. 
+30253_0 || Variable could not be found in pheno info file. 
+30254_0|| CAT-SINGLE || Inc(>=10): 2(165011) || Inc(>=10): 1(94968) || CAT-SINGLE-BINARY || sample 94968/165011(259979) || SUCCESS results-logistic-binary 
+30260_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30261_0|| INTEGER || Inc(>=10): 0(257942) || SKIP (number of levels: 1)
+30262_0 || Variable could not be found in pheno info file. 
+30263_0 || Variable could not be found in pheno info file. 
+30264_0|| CAT-SINGLE || Inc(>=10): 2(165011) || Inc(>=10): 1(94968) || CAT-SINGLE-BINARY || sample 94968/165011(259979) || SUCCESS results-logistic-binary 
+30270_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30271_0|| INTEGER || Inc(>=10): 0(257942) || SKIP (number of levels: 1)
+30272_0 || Variable could not be found in pheno info file. 
+30273_0 || Variable could not be found in pheno info file. 
+30274_0|| CAT-SINGLE || Inc(>=10): 2(165011) || Inc(>=10): 1(94869) || CAT-SINGLE-BINARY || sample 94869/165011(259880) || SUCCESS results-logistic-binary 
+30280_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30281_0|| INTEGER || Inc(>=10): 0(257942) || SKIP (number of levels: 1)
+30282_0 || Variable could not be found in pheno info file. 
+30283_0 || Variable could not be found in pheno info file. 
+30284_0|| CAT-SINGLE || Inc(>=10): 2(165011) || Inc(>=10): 1(94869) || CAT-SINGLE-BINARY || sample 94869/165011(259880) || SUCCESS results-logistic-binary 
+30290_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30291_0|| INTEGER || Inc(>=10): 0(257942) || SKIP (number of levels: 1)
+30292_0 || Variable could not be found in pheno info file. 
+30293_0 || Variable could not be found in pheno info file. 
+30294_0|| CAT-SINGLE || Inc(>=10): 2(165011) || Inc(>=10): 1(94869) || CAT-SINGLE-BINARY || sample 94869/165011(259880) || SUCCESS results-logistic-binary 
+30300_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30301_0|| INTEGER || Inc(>=10): 0(257942) || SKIP (number of levels: 1)
+30302_0 || Variable could not be found in pheno info file. 
+30303_0 || Variable could not be found in pheno info file. 
+30304_0|| CAT-SINGLE || Inc(>=10): 2(165011) || Inc(>=10): 1(94869) || CAT-SINGLE-BINARY || sample 94869/165011(259880) || SUCCESS results-logistic-binary 
+30314_0|| Excluded integer: YES-META || 
+30324_0|| Excluded integer: YES-META || 
+30334_0|| Excluded integer: YES-META || 
+30344_0|| Excluded integer: YES-META || 
+30354_0|| Excluded integer: YES-META || 
+30364_0|| Excluded integer: YES-META || 
+30374_0|| Excluded integer: YES-META || 
+30384_0|| Excluded integer: YES-META || 
+30394_0|| Excluded integer: YES-META || 
+30404_0|| Excluded integer: YES-META || 
+30414_0|| Excluded integer: YES-META || 
+30424_0|| Excluded integer: YES-META || 
+30500_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30503_0|| Excluded cat-single: YES-META || 
+30505_0|| CAT-SINGLE || SKIP (only one value) || 
+30510_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30513_0|| Excluded cat-single: YES-META || 
+30515_0|| CAT-SINGLE || SKIP (only one value) || 
+30520_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30523_0|| Excluded cat-single: YES-META || 
+30525_0|| CAT-SINGLE || SKIP (only one value) || 
+30530_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30533_0|| Excluded cat-single: YES-META || 
+30535_0|| CAT-SINGLE || SKIP (only one value) || 
+30600_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30602_0|| Excluded cat-single: YES-PROCESSING || 
+30603_0|| Excluded cat-single: YES-PROCESSING || 
+30604_0|| Excluded cat-single: YES-PROCESSING || 
+30605_0|| Excluded cat-single: YES-PROCESSING || 
+30606_0|| Excluded cat-single: YES-PROCESSING || 
+30610_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30612_0|| Excluded cat-single: YES-PROCESSING || 
+30613_0|| Excluded cat-single: YES-PROCESSING || 
+30614_0|| Excluded cat-single: YES-PROCESSING || 
+30615_0|| Excluded cat-single: YES-PROCESSING || 
+30616_0|| Excluded cat-single: YES-PROCESSING || 
+30620_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30622_0|| Excluded cat-single: YES-PROCESSING || 
+30623_0|| Excluded cat-single: YES-PROCESSING || 
+30624_0|| Excluded cat-single: YES-PROCESSING || 
+30625_0|| Excluded cat-single: YES-PROCESSING || 
+30626_0|| Excluded cat-single: YES-PROCESSING || 
+30630_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30632_0|| Excluded cat-single: YES-PROCESSING || 
+30633_0|| Excluded cat-single: YES-PROCESSING || 
+30634_0|| Excluded cat-single: YES-PROCESSING || 
+30635_0|| Excluded cat-single: YES-PROCESSING || 

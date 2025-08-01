@@ -1,0 +1,7 @@
+name,countValue
+binary.noconverge,1
+date.10,132
+date.binary,1001
+date.over10,869
+notinphenofile,2
+success.binary,868

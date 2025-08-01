@@ -1,0 +1,67 @@
+4979_0|| CAT-SINGLE || Inc(>=10): 5(3856) || Inc(>=10): 4(43880) || Inc(>=10): 1(8714) || Inc(>=10): 3(10948) || Inc(>=10): 2(6785) || CAT-SINGLE-UNORDERED || reference: 4=43880 || SUCCESS results-notordered-logistic 
+4990_0|| CAT-SINGLE || Inc(>=10): 69(55044) || Inc(>=10): 70(15735) || Inc(>=10): 68(389) || Inc(>=10): 71(385) || Inc(>=10): 72(444) || CAT-SINGLE-UNORDERED || reference: 69=55044 || SUCCESS results-notordered-logistic 
+5001_0|| CAT-SINGLE || Inc(>=10): 3(58586) || Inc(>=10): 1(5909) || Inc(>=10): 2(1152) || Inc(>=10): 4(610) || Inc(>=10): 5(781) || CAT-SINGLE-UNORDERED || reference: 3=58586 || SUCCESS results-notordered-logistic 
+5012_0|| CAT-SINGLE || Inc(>=10): 26(38315) || Inc(>=10): 25(5821) || Inc(>=10): 27(2469) || Inc(>=10): 28(1424) || Inc(>=10): 29(2332) || CAT-SINGLE-UNORDERED || reference: 26=38315 || SUCCESS results-notordered-logistic 
+5057_0|| INTEGER || reassignments: -1=NA|-3=NA || Inc(>=10): 1(28577) || Inc(>=10): 0(32959) || Inc(>=10): 3(4567) || Inc(>=10): 2(11605) || Inc(>=10): 4(1980) || Inc(>=10): 5(888) || Inc(>=10): 8(155) || Inc(>=10): 7(260) || Inc(>=10): 6(525) || Inc(>=10): 10(51) || Inc(>=10): 9(100) || Removed 12: 6<10 examples || Inc(>=10): 11(18) || Removed 13: 4<10 examples || Removed 15: 1<10 examples || Removed 14: 3<10 examples || 3-20 values || CAT-ORD || order: 0|1|2|3|4|5|6|7|8|9|10|11 || num categories: 12 || SUCCESS results-ordered-logistic
+5074_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <3.5, bin 2: >=3.5 AND < 5, bin 3: ==5 || cat N: 435, 544, 64410 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+5075_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <3.8, bin 2: >=3.8 AND < 5, bin 3: ==5 || cat N: 415, 417, 64584 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+5076_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5077_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5078_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5079_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5080_0 || Variable could not be found in pheno info file. 
+5081_0 || Variable could not be found in pheno info file. 
+5082_0 || Variable could not be found in pheno info file. 
+5083_0 || Variable could not be found in pheno info file. 
+5084_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5085_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5086_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5087_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5088_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5089_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5090_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5091_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5096_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5097_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5098_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5099_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5100_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5101_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5102_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5103_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5104_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5106_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5107_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5108_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5109_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5110_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5111_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5112_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5113_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5114_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5115_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5116_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5117_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5118_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5119_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5132_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5133_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5134_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5135_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5136_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5138_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5139_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5140_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5141_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5142_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5143_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5144_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5145_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5146_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5147_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5148_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5149_0|| Excluded cat-multiple: YES-ACE || 
+5152_0|| Excluded cat-multiple: YES-ACE || 
+5155_0|| Excluded cat-multiple: YES-ACE || 
+5156_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5157_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear

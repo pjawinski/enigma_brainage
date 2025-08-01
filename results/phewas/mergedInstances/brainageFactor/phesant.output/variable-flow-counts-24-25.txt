@@ -1,0 +1,15 @@
+name,countValue
+catSin.case2,1
+catSin.onevalue,1
+cont.main,419
+cont.main.500,419
+date.10,39
+date.binary,128
+date.over10,89
+excluded.catSin,4
+excluded.cont,1
+excluded.int,2
+start.catSin,2
+start.cont,419
+success.binary,89
+success.unordCat,1

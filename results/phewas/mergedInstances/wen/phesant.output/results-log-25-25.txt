@@ -1,0 +1,1003 @@
+130274_0|| DATE || DATE TO BINARY || sample 271747/132(271879) || SUCCESS results-logistic-binary 
+130276_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+130280_0|| DATE || DATE TO BINARY || sample 271832/47(271879) || SUCCESS results-logistic-binary 
+130282_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+130284_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+130286_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+130288_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+130292_0|| DATE || DATE-SKIP-10 (271872 vs 7) || 
+130296_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+130298_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+130300_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+130302_0|| DATE || DATE TO BINARY || sample 271862/17(271879) || SUCCESS results-logistic-binary 
+130304_0|| DATE || DATE-SKIP-10 (271874 vs 5) || 
+130306_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+130308_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+130310_0|| DATE || DATE TO BINARY || sample 271465/414(271879) || SUCCESS results-logistic-binary 
+130312_0|| DATE || DATE TO BINARY || sample 271869/10(271879) || SUCCESS results-logistic-binary 
+130314_0|| DATE || DATE TO BINARY || sample 271829/50(271879) || SUCCESS results-logistic-binary 
+130316_0|| DATE || DATE TO BINARY || sample 271834/45(271879) || SUCCESS results-logistic-binary 
+130318_0|| DATE || DATE TO BINARY || sample 271703/176(271879) || SUCCESS results-logistic-binary 
+130320_0|| DATE || DATE TO BINARY || sample 270445/1434(271879) || SUCCESS results-logistic-binary 
+130322_0|| DATE || DATE-SKIP-10 (271874 vs 5) || 
+130324_0|| DATE || DATE TO BINARY || sample 271787/92(271879) || SUCCESS results-logistic-binary 
+130326_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+130328_0|| DATE || DATE TO BINARY || sample 271847/32(271879) || SUCCESS results-logistic-binary 
+130330_0|| DATE || DATE TO BINARY || sample 271735/144(271879) || SUCCESS results-logistic-binary 
+130334_0|| DATE || DATE TO BINARY || sample 271777/102(271879) || SUCCESS results-logistic-binary 
+130336_0|| DATE || DATE TO BINARY || sample 266016/5863(271879) || SUCCESS results-logistic-binary 
+130338_0|| DATE || DATE TO BINARY || sample 259854/12025(271879) || SUCCESS results-logistic-binary 
+130340_0|| DATE || DATE TO BINARY || sample 269100/2779(271879) || SUCCESS results-logistic-binary 
+130342_0|| DATE || DATE TO BINARY || sample 269484/2395(271879) || SUCCESS results-logistic-binary 
+130344_0|| DATE || DATE TO BINARY || sample 271034/845(271879) || SUCCESS results-logistic-binary 
+130622_0|| DATE || DATE TO BINARY || sample 253670/18209(271879) || SUCCESS results-logistic-binary 
+130624_0|| DATE || DATE TO BINARY || sample 269692/2187(271879) || SUCCESS results-logistic-binary 
+130626_0|| DATE || DATE TO BINARY || sample 271208/671(271879) || SUCCESS results-logistic-binary 
+130628_0|| DATE || DATE TO BINARY || sample 271717/162(271879) || SUCCESS results-logistic-binary 
+130630_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+130632_0|| DATE || DATE TO BINARY || sample 271765/114(271879) || SUCCESS results-logistic-binary 
+130634_0|| DATE || DATE TO BINARY || sample 271843/36(271879) || SUCCESS results-logistic-binary 
+130636_0|| DATE || DATE TO BINARY || sample 271720/159(271879) || SUCCESS results-logistic-binary 
+130638_0|| DATE || DATE TO BINARY || sample 271641/238(271879) || SUCCESS results-logistic-binary 
+130640_0|| DATE || DATE TO BINARY || sample 271865/14(271879) || SUCCESS results-logistic-binary 
+130642_0|| DATE || DATE TO BINARY || sample 270830/1049(271879) || SUCCESS results-logistic-binary 
+130644_0|| DATE || DATE TO BINARY || sample 271600/279(271879) || SUCCESS results-logistic-binary 
+130646_0|| DATE || DATE TO BINARY || sample 270672/1207(271879) || SUCCESS results-logistic-binary 
+130648_0|| DATE || DATE TO BINARY || sample 251512/20367(271879) || SUCCESS results-logistic-binary 
+130650_0|| DATE || DATE TO BINARY || sample 271808/71(271879) || SUCCESS results-logistic-binary 
+130652_0|| DATE || DATE TO BINARY || sample 271805/74(271879) || SUCCESS results-logistic-binary 
+130654_0|| DATE || DATE TO BINARY || sample 271863/16(271879) || SUCCESS results-logistic-binary 
+130656_0|| DATE || DATE TO BINARY || sample 270339/1540(271879) || SUCCESS results-logistic-binary 
+130658_0|| DATE || DATE TO BINARY || sample 268043/3836(271879) || SUCCESS results-logistic-binary 
+130660_0|| DATE || DATE TO BINARY || sample 267047/4832(271879) || SUCCESS results-logistic-binary 
+130662_0|| DATE || DATE TO BINARY || sample 271861/18(271879) || SUCCESS results-logistic-binary 
+130664_0|| DATE || DATE TO BINARY || sample 270791/1088(271879) || SUCCESS results-logistic-binary 
+130666_0|| DATE || DATE TO BINARY || sample 270920/959(271879) || SUCCESS results-logistic-binary 
+130668_0|| DATE || DATE TO BINARY || sample 271869/10(271879) || SUCCESS results-logistic-binary 
+130670_0|| DATE || DATE TO BINARY || sample 270089/1790(271879) || SUCCESS results-logistic-binary 
+130672_0|| DATE || DATE TO BINARY || sample 271799/80(271879) || SUCCESS results-logistic-binary 
+130674_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+130676_0|| DATE || DATE TO BINARY || sample 271587/292(271879) || SUCCESS results-logistic-binary 
+130678_0|| DATE || DATE TO BINARY || sample 271869/10(271879) || SUCCESS results-logistic-binary 
+130680_0|| DATE || DATE TO BINARY || sample 271842/37(271879) || SUCCESS results-logistic-binary 
+130682_0|| DATE || DATE TO BINARY || sample 271848/31(271879) || SUCCESS results-logistic-binary 
+130684_0|| DATE || DATE TO BINARY || sample 271751/128(271879) || SUCCESS results-logistic-binary 
+130686_0|| DATE || DATE TO BINARY || sample 270773/1106(271879) || SUCCESS results-logistic-binary 
+130688_0|| DATE || DATE TO BINARY || sample 271397/482(271879) || SUCCESS results-logistic-binary 
+130692_0|| DATE || DATE TO BINARY || sample 271822/57(271879) || SUCCESS results-logistic-binary 
+130694_0|| DATE || DATE TO BINARY || sample 271747/132(271879) || SUCCESS results-logistic-binary 
+130696_0|| DATE || DATE TO BINARY || sample 249692/22187(271879) || SUCCESS results-logistic-binary 
+130698_0|| DATE || DATE TO BINARY || sample 268708/3171(271879) || SUCCESS results-logistic-binary 
+130700_0|| DATE || DATE TO BINARY || sample 267031/4848(271879) || SUCCESS results-logistic-binary 
+130702_0|| DATE || DATE TO BINARY || sample 271197/682(271879) || SUCCESS results-logistic-binary 
+130704_0|| DATE || DATE TO BINARY || sample 270163/1716(271879) || SUCCESS results-logistic-binary 
+130706_0|| DATE || DATE TO BINARY || sample 268850/3029(271879) || SUCCESS results-logistic-binary 
+130708_0|| DATE || DATE TO BINARY || sample 246538/25341(271879) || SUCCESS results-logistic-binary 
+130710_0|| DATE || DATE-SKIP-10 (271874 vs 5) || 
+130712_0|| DATE || DATE TO BINARY || sample 271508/371(271879) || SUCCESS results-logistic-binary 
+130714_0|| DATE || DATE TO BINARY || sample 258189/13690(271879) || SUCCESS results-logistic-binary 
+130716_0|| DATE || DATE TO BINARY || sample 271857/22(271879) || SUCCESS results-logistic-binary 
+130718_0|| DATE || DATE TO BINARY || sample 268856/3023(271879) || SUCCESS results-logistic-binary 
+130720_0|| DATE || DATE TO BINARY || sample 271714/165(271879) || SUCCESS results-logistic-binary 
+130722_0|| DATE || DATE TO BINARY || sample 270223/1656(271879) || SUCCESS results-logistic-binary 
+130724_0|| DATE || DATE TO BINARY || sample 271131/748(271879) || SUCCESS results-logistic-binary 
+130726_0|| DATE || DATE TO BINARY || sample 271153/726(271879) || SUCCESS results-logistic-binary 
+130728_0|| DATE || DATE TO BINARY || sample 271747/132(271879) || SUCCESS results-logistic-binary 
+130730_0|| DATE || DATE TO BINARY || sample 271856/23(271879) || SUCCESS results-logistic-binary 
+130732_0|| DATE || DATE TO BINARY || sample 271772/107(271879) || SUCCESS results-logistic-binary 
+130734_0|| DATE || DATE TO BINARY || sample 270815/1064(271879) || SUCCESS results-logistic-binary 
+130736_0|| DATE || DATE TO BINARY || sample 270760/1119(271879) || SUCCESS results-logistic-binary 
+130738_0|| DATE || DATE TO BINARY || sample 271506/373(271879) || SUCCESS results-logistic-binary 
+130740_0|| DATE || DATE TO BINARY || sample 271868/11(271879) || SUCCESS results-logistic-binary 
+130742_0|| DATE || DATE TO BINARY || sample 271858/21(271879) || SUCCESS results-logistic-binary 
+130744_0|| DATE || DATE TO BINARY || sample 271852/27(271879) || SUCCESS results-logistic-binary 
+130746_0|| DATE || DATE TO BINARY || sample 271624/255(271879) || SUCCESS results-logistic-binary 
+130748_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+130750_0 || Variable could not be found in pheno info file. 
+130752_0|| DATE || DATE TO BINARY || sample 271864/15(271879) || SUCCESS results-logistic-binary 
+130756_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+130758_0|| DATE || DATE-SKIP-10 (271874 vs 5) || 
+130760_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+130762_0|| DATE || DATE TO BINARY || sample 271455/424(271879) || SUCCESS results-logistic-binary 
+130764_0|| DATE || DATE-SKIP-10 (271872 vs 7) || 
+130766_0|| DATE || DATE TO BINARY || sample 271832/47(271879) || SUCCESS results-logistic-binary 
+130768_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+130770_0|| DATE || DATE TO BINARY || sample 268765/3114(271879) || SUCCESS results-logistic-binary 
+130772_0|| DATE || DATE TO BINARY || sample 271869/10(271879) || SUCCESS results-logistic-binary 
+130774_0|| DATE || DATE TO BINARY || sample 268061/3818(271879) || SUCCESS results-logistic-binary 
+130776_0|| DATE || DATE TO BINARY || sample 271732/147(271879) || SUCCESS results-logistic-binary 
+130778_0|| DATE || DATE TO BINARY || sample 271843/36(271879) || SUCCESS results-logistic-binary 
+130780_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+130782_0|| DATE || DATE TO BINARY || sample 271865/14(271879) || SUCCESS results-logistic-binary 
+130784_0|| DATE || DATE TO BINARY || sample 270846/1033(271879) || SUCCESS results-logistic-binary 
+130786_0|| DATE || DATE TO BINARY || sample 271831/48(271879) || SUCCESS results-logistic-binary 
+130788_0|| DATE || DATE-SKIP-10 (271875 vs 4) || 
+130790_0|| DATE || DATE TO BINARY || sample 271800/79(271879) || SUCCESS results-logistic-binary 
+130792_0|| DATE || DATE TO BINARY || sample 241855/30024(271879) || SUCCESS results-logistic-binary 
+130794_0|| DATE || DATE-SKIP-10 (271872 vs 7) || 
+130796_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+130798_0|| DATE || DATE TO BINARY || sample 271839/40(271879) || SUCCESS results-logistic-binary 
+130800_0|| DATE || DATE-SKIP-10 (271872 vs 7) || 
+130802_0|| DATE || DATE TO BINARY || sample 271824/55(271879) || SUCCESS results-logistic-binary 
+130804_0|| DATE || DATE TO BINARY || sample 271592/287(271879) || SUCCESS results-logistic-binary 
+130806_0|| DATE || DATE TO BINARY || sample 271621/258(271879) || SUCCESS results-logistic-binary 
+130808_0|| DATE || DATE TO BINARY || sample 271812/67(271879) || SUCCESS results-logistic-binary 
+130810_0|| DATE || DATE-SKIP-10 (271871 vs 8) || 
+130812_0|| DATE || DATE TO BINARY || sample 271861/18(271879) || SUCCESS results-logistic-binary 
+130814_0|| DATE || DATE TO BINARY || sample 202591/69288(271879) || SUCCESS results-logistic-binary 
+130816_0|| DATE || DATE TO BINARY || sample 271560/319(271879) || SUCCESS results-logistic-binary 
+130818_0|| DATE || DATE TO BINARY || sample 270778/1101(271879) || SUCCESS results-logistic-binary 
+130820_0|| DATE || DATE TO BINARY || sample 265266/6613(271879) || SUCCESS results-logistic-binary 
+130822_0|| DATE || DATE TO BINARY || sample 271790/89(271879) || SUCCESS results-logistic-binary 
+130824_0|| DATE || DATE TO BINARY || sample 271533/346(271879) || SUCCESS results-logistic-binary 
+130826_0|| DATE || DATE TO BINARY || sample 263913/7966(271879) || SUCCESS results-logistic-binary 
+130828_0|| DATE || DATE TO BINARY || sample 254180/17699(271879) || SUCCESS results-logistic-binary 
+130830_0|| DATE || DATE TO BINARY || sample 270718/1161(271879) || SUCCESS results-logistic-binary 
+130832_0|| DATE || DATE TO BINARY || sample 269718/2161(271879) || SUCCESS results-logistic-binary 
+130836_0|| DATE || DATE TO BINARY || sample 269751/2128(271879) || SUCCESS results-logistic-binary 
+130838_0|| DATE || DATE TO BINARY || sample 270359/1520(271879) || SUCCESS results-logistic-binary 
+130840_0|| DATE || DATE TO BINARY || sample 271076/803(271879) || SUCCESS results-logistic-binary 
+130842_0|| DATE || DATE TO BINARY || sample 268203/3676(271879) || SUCCESS results-logistic-binary 
+130844_0|| DATE || DATE TO BINARY || sample 271864/15(271879) || SUCCESS results-logistic-binary 
+130846_0|| DATE || DATE TO BINARY || sample 266109/5770(271879) || SUCCESS results-logistic-binary 
+130848_0|| DATE || DATE TO BINARY || sample 270796/1083(271879) || SUCCESS results-logistic-binary 
+130850_0|| DATE || DATE TO BINARY || sample 271724/155(271879) || SUCCESS results-logistic-binary 
+130852_0|| DATE || DATE TO BINARY || sample 271581/298(271879) || SUCCESS results-logistic-binary 
+130854_0|| DATE || DATE TO BINARY || sample 263924/7955(271879) || SUCCESS results-logistic-binary 
+130856_0|| DATE || DATE TO BINARY || sample 271693/186(271879) || SUCCESS results-logistic-binary 
+130858_0|| DATE || DATE TO BINARY || sample 271672/207(271879) || SUCCESS results-logistic-binary 
+130860_0|| DATE || DATE TO BINARY || sample 271715/164(271879) || SUCCESS results-logistic-binary 
+130862_0|| DATE || DATE TO BINARY || sample 271834/45(271879) || SUCCESS results-logistic-binary 
+130864_0|| DATE || DATE TO BINARY || sample 271825/54(271879) || SUCCESS results-logistic-binary 
+130866_0|| DATE || DATE TO BINARY || sample 271861/18(271879) || SUCCESS results-logistic-binary 
+130868_0|| DATE || DATE TO BINARY || sample 246050/25829(271879) || SUCCESS results-logistic-binary 
+130870_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+130872_0|| DATE || DATE TO BINARY || sample 271669/210(271879) || SUCCESS results-logistic-binary 
+130874_0|| DATE || DATE TO BINARY || sample 271158/721(271879) || SUCCESS results-logistic-binary 
+130876_0|| DATE || DATE TO BINARY || sample 271864/15(271879) || SUCCESS results-logistic-binary 
+130878_0|| DATE || DATE TO BINARY || sample 271488/391(271879) || SUCCESS results-logistic-binary 
+130880_0|| DATE || DATE TO BINARY || sample 271681/198(271879) || SUCCESS results-logistic-binary 
+130882_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+130884_0|| DATE || DATE TO BINARY || sample 271687/192(271879) || SUCCESS results-logistic-binary 
+130886_0|| DATE || DATE-SKIP-10 (271871 vs 8) || 
+130888_0|| DATE || DATE TO BINARY || sample 271487/392(271879) || SUCCESS results-logistic-binary 
+130890_0|| DATE || DATE TO BINARY || sample 271572/307(271879) || SUCCESS results-logistic-binary 
+130892_0|| DATE || DATE TO BINARY || sample 270425/1454(271879) || SUCCESS results-logistic-binary 
+130894_0|| DATE || DATE TO BINARY || sample 237127/34752(271879) || SUCCESS results-logistic-binary 
+130896_0|| DATE || DATE TO BINARY || sample 269563/2316(271879) || SUCCESS results-logistic-binary 
+130898_0|| DATE || DATE TO BINARY || sample 271332/547(271879) || SUCCESS results-logistic-binary 
+130900_0|| DATE || DATE TO BINARY || sample 271774/105(271879) || SUCCESS results-logistic-binary 
+130902_0|| DATE || DATE TO BINARY || sample 271274/605(271879) || SUCCESS results-logistic-binary 
+130904_0|| DATE || DATE TO BINARY || sample 269325/2554(271879) || SUCCESS results-logistic-binary 
+130906_0|| DATE || DATE TO BINARY || sample 248640/23239(271879) || SUCCESS results-logistic-binary 
+130908_0|| DATE || DATE TO BINARY || sample 271314/565(271879) || SUCCESS results-logistic-binary 
+130910_0|| DATE || DATE TO BINARY || sample 263978/7901(271879) || SUCCESS results-logistic-binary 
+130912_0|| DATE || DATE TO BINARY || sample 271634/245(271879) || SUCCESS results-logistic-binary 
+130914_0|| DATE || DATE TO BINARY || sample 270120/1759(271879) || SUCCESS results-logistic-binary 
+130916_0|| DATE || DATE TO BINARY || sample 271191/688(271879) || SUCCESS results-logistic-binary 
+130918_0|| DATE || DATE TO BINARY || sample 271343/536(271879) || SUCCESS results-logistic-binary 
+130920_0|| DATE || DATE TO BINARY || sample 271533/346(271879) || SUCCESS results-logistic-binary 
+130922_0|| DATE || DATE TO BINARY || sample 270564/1315(271879) || SUCCESS results-logistic-binary 
+130924_0|| DATE || DATE TO BINARY || sample 271233/646(271879) || SUCCESS results-logistic-binary 
+130926_0|| DATE || DATE-SKIP-10 (271872 vs 7) || 
+130928_0|| DATE || DATE TO BINARY || sample 271861/18(271879) || SUCCESS results-logistic-binary 
+130930_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+130932_0|| DATE || DATE TO BINARY || sample 271387/492(271879) || SUCCESS results-logistic-binary 
+130934_0|| DATE || DATE TO BINARY || sample 271857/22(271879) || SUCCESS results-logistic-binary 
+130936_0|| DATE || DATE TO BINARY || sample 271858/21(271879) || SUCCESS results-logistic-binary 
+130938_0|| DATE || DATE TO BINARY || sample 271835/44(271879) || SUCCESS results-logistic-binary 
+130940_0|| DATE || DATE TO BINARY || sample 271867/12(271879) || SUCCESS results-logistic-binary 
+130942_0|| DATE || DATE TO BINARY || sample 271862/17(271879) || SUCCESS results-logistic-binary 
+130944_0|| DATE || DATE TO BINARY || sample 271667/212(271879) || SUCCESS results-logistic-binary 
+130946_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+130948_0|| DATE || DATE TO BINARY || sample 271784/95(271879) || SUCCESS results-logistic-binary 
+130950_0|| DATE || DATE TO BINARY || sample 271835/44(271879) || SUCCESS results-logistic-binary 
+130952_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+130954_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+130958_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+130960_0|| DATE || DATE TO BINARY || sample 271763/116(271879) || SUCCESS results-logistic-binary 
+130962_0|| DATE || DATE TO BINARY || sample 271661/218(271879) || SUCCESS results-logistic-binary 
+130964_0|| DATE || DATE TO BINARY || sample 271612/267(271879) || SUCCESS results-logistic-binary 
+130966_0|| DATE || DATE TO BINARY || sample 271865/14(271879) || SUCCESS results-logistic-binary 
+130968_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+130970_0|| DATE || DATE TO BINARY || sample 271704/175(271879) || SUCCESS results-logistic-binary 
+130972_0|| DATE || DATE-SKIP-10 (271879 vs 0) || 
+130974_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+130976_0|| DATE || DATE TO BINARY || sample 271835/44(271879) || SUCCESS results-logistic-binary 
+130978_0|| DATE || DATE TO BINARY || sample 271805/74(271879) || SUCCESS results-logistic-binary 
+130980_0|| DATE || DATE-SKIP-10 (271875 vs 4) || 
+130982_0|| DATE || DATE TO BINARY || sample 271867/12(271879) || SUCCESS results-logistic-binary 
+130984_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+130986_0|| DATE || DATE TO BINARY || sample 271853/26(271879) || SUCCESS results-logistic-binary 
+130988_0|| DATE || DATE TO BINARY || sample 271775/104(271879) || SUCCESS results-logistic-binary 
+130990_0|| DATE || DATE TO BINARY || sample 271636/243(271879) || SUCCESS results-logistic-binary 
+130992_0|| DATE || DATE TO BINARY || sample 271735/144(271879) || SUCCESS results-logistic-binary 
+130994_0|| DATE || DATE TO BINARY || sample 271839/40(271879) || SUCCESS results-logistic-binary 
+130996_0|| DATE || DATE TO BINARY || sample 271823/56(271879) || SUCCESS results-logistic-binary 
+130998_0|| DATE || DATE TO BINARY || sample 270534/1345(271879) || SUCCESS results-logistic-binary 
+131000_0|| DATE || DATE TO BINARY || sample 271347/532(271879) || SUCCESS results-logistic-binary 
+131002_0|| DATE || DATE TO BINARY || sample 271766/113(271879) || SUCCESS results-logistic-binary 
+131004_0|| DATE || DATE TO BINARY || sample 271636/243(271879) || SUCCESS results-logistic-binary 
+131006_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+131008_0|| DATE || DATE TO BINARY || sample 271800/79(271879) || SUCCESS results-logistic-binary 
+131010_0|| DATE || DATE TO BINARY || sample 271809/70(271879) || SUCCESS results-logistic-binary 
+131012_0|| DATE || DATE TO BINARY || sample 271835/44(271879) || SUCCESS results-logistic-binary 
+131014_0|| DATE || DATE TO BINARY || sample 271601/278(271879) || SUCCESS results-logistic-binary 
+131016_0|| DATE || DATE TO BINARY || sample 271330/549(271879) || SUCCESS results-logistic-binary 
+131018_0|| DATE || DATE TO BINARY || sample 271856/23(271879) || SUCCESS results-logistic-binary 
+131020_0|| DATE || DATE TO BINARY || sample 271825/54(271879) || SUCCESS results-logistic-binary 
+131022_0|| DATE || DATE TO BINARY || sample 268959/2920(271879) || SUCCESS results-logistic-binary 
+131024_0|| DATE || DATE TO BINARY || sample 271656/223(271879) || SUCCESS results-logistic-binary 
+131026_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+131028_0|| DATE || DATE TO BINARY || sample 271598/281(271879) || SUCCESS results-logistic-binary 
+131030_0|| DATE || DATE TO BINARY || sample 271140/739(271879) || SUCCESS results-logistic-binary 
+131032_0|| DATE || DATE TO BINARY || sample 268241/3638(271879) || SUCCESS results-logistic-binary 
+131036_0|| DATE || DATE TO BINARY || sample 268788/3091(271879) || SUCCESS results-logistic-binary 
+131038_0|| DATE || DATE TO BINARY || sample 269488/2391(271879) || SUCCESS results-logistic-binary 
+131040_0|| DATE || DATE TO BINARY || sample 271838/41(271879) || SUCCESS results-logistic-binary 
+131042_0|| DATE || DATE TO BINARY || sample 270384/1495(271879) || SUCCESS results-logistic-binary 
+131044_0|| DATE || DATE TO BINARY || sample 271858/21(271879) || SUCCESS results-logistic-binary 
+131046_0|| DATE || DATE TO BINARY || sample 271498/381(271879) || SUCCESS results-logistic-binary 
+131048_0|| DATE || DATE TO BINARY || sample 266563/5316(271879) || SUCCESS results-logistic-binary 
+131050_0|| DATE || DATE TO BINARY || sample 271620/259(271879) || SUCCESS results-logistic-binary 
+131052_0|| DATE || DATE TO BINARY || sample 257565/14314(271879) || SUCCESS results-logistic-binary 
+131054_0|| DATE || DATE TO BINARY || sample 268586/3293(271879) || SUCCESS results-logistic-binary 
+131056_0|| DATE || DATE TO BINARY || sample 265697/6182(271879) || SUCCESS results-logistic-binary 
+131058_0|| DATE || DATE TO BINARY || sample 271703/176(271879) || SUCCESS results-logistic-binary 
+131060_0|| DATE || DATE TO BINARY || sample 260315/11564(271879) || SUCCESS results-logistic-binary 
+131062_0|| DATE || DATE TO BINARY || sample 269957/1922(271879) || SUCCESS results-logistic-binary 
+131064_0|| DATE || DATE TO BINARY || sample 269741/2138(271879) || SUCCESS results-logistic-binary 
+131066_0|| DATE || DATE TO BINARY || sample 271586/293(271879) || SUCCESS results-logistic-binary 
+131068_0|| DATE || DATE TO BINARY || sample 271710/169(271879) || SUCCESS results-logistic-binary 
+131070_0|| DATE || DATE TO BINARY || sample 271041/838(271879) || SUCCESS results-logistic-binary 
+131072_0|| DATE || DATE TO BINARY || sample 266315/5564(271879) || SUCCESS results-logistic-binary 
+131074_0|| DATE || DATE TO BINARY || sample 257278/14601(271879) || SUCCESS results-logistic-binary 
+131076_0|| DATE || DATE TO BINARY || sample 268861/3018(271879) || SUCCESS results-logistic-binary 
+131078_0|| DATE || DATE TO BINARY || sample 270372/1507(271879) || SUCCESS results-logistic-binary 
+131080_0|| DATE || DATE TO BINARY || sample 271670/209(271879) || SUCCESS results-logistic-binary 
+131082_0|| DATE || DATE TO BINARY || sample 271541/338(271879) || SUCCESS results-logistic-binary 
+131084_0|| DATE || DATE TO BINARY || sample 271465/414(271879) || SUCCESS results-logistic-binary 
+131086_0|| DATE || DATE TO BINARY || sample 268453/3426(271879) || SUCCESS results-logistic-binary 
+131088_0|| DATE || DATE TO BINARY || sample 270889/990(271879) || SUCCESS results-logistic-binary 
+131090_0|| DATE || DATE TO BINARY || sample 271718/161(271879) || SUCCESS results-logistic-binary 
+131092_0|| DATE || DATE TO BINARY || sample 271516/363(271879) || SUCCESS results-logistic-binary 
+131094_0|| DATE || DATE TO BINARY || sample 271674/205(271879) || SUCCESS results-logistic-binary 
+131096_0|| DATE || DATE TO BINARY || sample 271573/306(271879) || SUCCESS results-logistic-binary 
+131098_0|| DATE || DATE TO BINARY || sample 271849/30(271879) || SUCCESS results-logistic-binary 
+131100_0|| DATE || DATE TO BINARY || sample 271688/191(271879) || SUCCESS results-logistic-binary 
+131102_0|| DATE || DATE TO BINARY || sample 268819/3060(271879) || SUCCESS results-logistic-binary 
+131104_0|| DATE || DATE TO BINARY || sample 271436/443(271879) || SUCCESS results-logistic-binary 
+131106_0|| DATE || DATE TO BINARY || sample 270906/973(271879) || SUCCESS results-logistic-binary 
+131108_0|| DATE || DATE TO BINARY || sample 271385/494(271879) || SUCCESS results-logistic-binary 
+131110_0|| DATE || DATE TO BINARY || sample 271046/833(271879) || SUCCESS results-logistic-binary 
+131112_0|| DATE || DATE TO BINARY || sample 271864/15(271879) || SUCCESS results-logistic-binary 
+131114_0|| DATE || DATE TO BINARY || sample 267542/4337(271879) || SUCCESS results-logistic-binary 
+131116_0|| DATE || DATE TO BINARY || sample 271749/130(271879) || SUCCESS results-logistic-binary 
+131118_0|| DATE || DATE TO BINARY || sample 270584/1295(271879) || SUCCESS results-logistic-binary 
+131120_0|| DATE || DATE TO BINARY || sample 271498/381(271879) || SUCCESS results-logistic-binary 
+131122_0|| DATE || DATE TO BINARY || sample 271647/232(271879) || SUCCESS results-logistic-binary 
+131124_0|| DATE || DATE TO BINARY || sample 270645/1234(271879) || SUCCESS results-logistic-binary 
+131126_0|| DATE || DATE TO BINARY || sample 270164/1715(271879) || SUCCESS results-logistic-binary 
+131128_0|| DATE || DATE TO BINARY || sample 264974/6905(271879) || SUCCESS results-logistic-binary 
+131130_0|| DATE || DATE TO BINARY || sample 268355/3524(271879) || SUCCESS results-logistic-binary 
+131132_0|| DATE || DATE TO BINARY || sample 261606/10273(271879) || SUCCESS results-logistic-binary 
+131134_0|| DATE || DATE TO BINARY || sample 271819/60(271879) || SUCCESS results-logistic-binary 
+131136_0|| DATE || DATE TO BINARY || sample 263072/8807(271879) || SUCCESS results-logistic-binary 
+131138_0|| DATE || DATE TO BINARY || sample 271173/706(271879) || SUCCESS results-logistic-binary 
+131140_0|| DATE || DATE TO BINARY || sample 271751/128(271879) || SUCCESS results-logistic-binary 
+131142_0|| DATE || DATE TO BINARY || sample 258208/13671(271879) || SUCCESS results-logistic-binary 
+131144_0|| DATE || DATE TO BINARY || sample 266863/5016(271879) || SUCCESS results-logistic-binary 
+131146_0|| DATE || DATE TO BINARY || sample 271787/92(271879) || SUCCESS results-logistic-binary 
+131148_0|| DATE || DATE TO BINARY || sample 271150/729(271879) || SUCCESS results-logistic-binary 
+131150_0|| DATE || DATE TO BINARY || sample 270806/1073(271879) || SUCCESS results-logistic-binary 
+131152_0|| DATE || DATE TO BINARY || sample 271563/316(271879) || SUCCESS results-logistic-binary 
+131154_0|| DATE || DATE TO BINARY || sample 268575/3304(271879) || SUCCESS results-logistic-binary 
+131156_0|| DATE || DATE TO BINARY || sample 271763/116(271879) || SUCCESS results-logistic-binary 
+131158_0|| DATE || DATE TO BINARY || sample 270221/1658(271879) || SUCCESS results-logistic-binary 
+131160_0|| DATE || DATE TO BINARY || sample 271003/876(271879) || SUCCESS results-logistic-binary 
+131162_0|| DATE || DATE TO BINARY || sample 271832/47(271879) || SUCCESS results-logistic-binary 
+131164_0|| DATE || DATE TO BINARY || sample 251007/20872(271879) || SUCCESS results-logistic-binary 
+131166_0|| DATE || DATE TO BINARY || sample 242000/29879(271879) || SUCCESS results-logistic-binary 
+131168_0|| DATE || DATE TO BINARY || sample 271437/442(271879) || SUCCESS results-logistic-binary 
+131170_0|| DATE || DATE TO BINARY || sample 271800/79(271879) || SUCCESS results-logistic-binary 
+131172_0|| DATE || DATE TO BINARY || sample 271734/145(271879) || SUCCESS results-logistic-binary 
+131174_0|| DATE || DATE TO BINARY || sample 271285/594(271879) || SUCCESS results-logistic-binary 
+131176_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+131178_0|| DATE || DATE TO BINARY || sample 267373/4506(271879) || SUCCESS results-logistic-binary 
+131180_0|| DATE || DATE TO BINARY || sample 270175/1704(271879) || SUCCESS results-logistic-binary 
+131182_0|| DATE || DATE TO BINARY || sample 260888/10991(271879) || SUCCESS results-logistic-binary 
+131184_0|| DATE || DATE TO BINARY || sample 269002/2877(271879) || SUCCESS results-logistic-binary 
+131186_0|| DATE || DATE TO BINARY || sample 260171/11708(271879) || SUCCESS results-logistic-binary 
+131188_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+131190_0|| DATE || DATE TO BINARY || sample 265144/6735(271879) || SUCCESS results-logistic-binary 
+131192_0|| DATE || DATE TO BINARY || sample 270635/1244(271879) || SUCCESS results-logistic-binary 
+131194_0|| DATE || DATE TO BINARY || sample 271869/10(271879) || SUCCESS results-logistic-binary 
+131196_0|| DATE || DATE TO BINARY || sample 271553/326(271879) || SUCCESS results-logistic-binary 
+131198_0|| DATE || DATE TO BINARY || sample 270829/1050(271879) || SUCCESS results-logistic-binary 
+131200_0|| DATE || DATE TO BINARY || sample 271868/11(271879) || SUCCESS results-logistic-binary 
+131202_0|| DATE || DATE TO BINARY || sample 271308/571(271879) || SUCCESS results-logistic-binary 
+131204_0|| DATE || DATE TO BINARY || sample 270307/1572(271879) || SUCCESS results-logistic-binary 
+131206_0|| DATE || DATE TO BINARY || sample 271724/155(271879) || SUCCESS results-logistic-binary 
+131208_0|| DATE || DATE TO BINARY || sample 263297/8582(271879) || SUCCESS results-logistic-binary 
+131210_0|| DATE || DATE TO BINARY || sample 263641/8238(271879) || SUCCESS results-logistic-binary 
+131212_0|| DATE || DATE TO BINARY || sample 269289/2590(271879) || SUCCESS results-logistic-binary 
+131214_0|| DATE || DATE TO BINARY || sample 271412/467(271879) || SUCCESS results-logistic-binary 
+131216_0|| DATE || DATE TO BINARY || sample 267294/4585(271879) || SUCCESS results-logistic-binary 
+131218_0|| DATE || DATE TO BINARY || sample 271734/145(271879) || SUCCESS results-logistic-binary 
+131220_0|| DATE || DATE TO BINARY || sample 271499/380(271879) || SUCCESS results-logistic-binary 
+131222_0|| DATE || DATE TO BINARY || sample 259374/12505(271879) || SUCCESS results-logistic-binary 
+131224_0|| DATE || DATE TO BINARY || sample 254487/17392(271879) || SUCCESS results-logistic-binary 
+131226_0|| DATE || DATE TO BINARY || sample 271842/37(271879) || SUCCESS results-logistic-binary 
+131228_0|| DATE || DATE TO BINARY || sample 268450/3429(271879) || SUCCESS results-logistic-binary 
+131230_0|| DATE || DATE TO BINARY || sample 266124/5755(271879) || SUCCESS results-logistic-binary 
+131232_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+131234_0|| DATE || DATE TO BINARY || sample 270454/1425(271879) || SUCCESS results-logistic-binary 
+131236_0|| DATE || DATE TO BINARY || sample 270283/1596(271879) || SUCCESS results-logistic-binary 
+131238_0|| DATE || DATE TO BINARY || sample 271693/186(271879) || SUCCESS results-logistic-binary 
+131240_0|| DATE || DATE TO BINARY || sample 271410/469(271879) || SUCCESS results-logistic-binary 
+131242_0|| DATE || DATE TO BINARY || sample 270648/1231(271879) || SUCCESS results-logistic-binary 
+131244_0|| DATE || DATE TO BINARY || sample 271406/473(271879) || SUCCESS results-logistic-binary 
+131246_0|| DATE || DATE TO BINARY || sample 271306/573(271879) || SUCCESS results-logistic-binary 
+131248_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+131250_0|| DATE || DATE TO BINARY || sample 271210/669(271879) || SUCCESS results-logistic-binary 
+131252_0|| DATE || DATE TO BINARY || sample 264216/7663(271879) || SUCCESS results-logistic-binary 
+131254_0|| DATE || DATE-SKIP-10 (271872 vs 7) || 
+131256_0|| DATE || DATE TO BINARY || sample 264972/6907(271879) || SUCCESS results-logistic-binary 
+131258_0|| DATE || DATE TO BINARY || sample 266613/5266(271879) || SUCCESS results-logistic-binary 
+131260_0|| DATE || DATE TO BINARY || sample 259361/12518(271879) || SUCCESS results-logistic-binary 
+131262_0|| DATE || DATE TO BINARY || sample 262934/8945(271879) || SUCCESS results-logistic-binary 
+131264_0|| DATE || DATE TO BINARY || sample 261704/10175(271879) || SUCCESS results-logistic-binary 
+131266_0|| DATE || DATE TO BINARY || sample 271869/10(271879) || SUCCESS results-logistic-binary 
+131268_0|| DATE || DATE TO BINARY || sample 271777/102(271879) || SUCCESS results-logistic-binary 
+131270_0|| DATE || DATE TO BINARY || sample 270979/900(271879) || SUCCESS results-logistic-binary 
+131272_0|| DATE || DATE TO BINARY || sample 271859/20(271879) || SUCCESS results-logistic-binary 
+131274_0|| DATE || DATE TO BINARY || sample 271863/16(271879) || SUCCESS results-logistic-binary 
+131276_0|| DATE || DATE TO BINARY || sample 271270/609(271879) || SUCCESS results-logistic-binary 
+131278_0|| DATE || DATE TO BINARY || sample 271803/76(271879) || SUCCESS results-logistic-binary 
+131280_0|| DATE || DATE TO BINARY || sample 270667/1212(271879) || SUCCESS results-logistic-binary 
+131282_0|| DATE || DATE TO BINARY || sample 266245/5634(271879) || SUCCESS results-logistic-binary 
+131284_0|| DATE || DATE TO BINARY || sample 271802/77(271879) || SUCCESS results-logistic-binary 
+131286_0|| DATE || DATE TO BINARY || sample 158549/113330(271879) || SUCCESS results-logistic-binary 
+131288_0|| DATE || DATE TO BINARY || sample 271096/783(271879) || SUCCESS results-logistic-binary 
+131290_0|| DATE || DATE TO BINARY || sample 270562/1317(271879) || SUCCESS results-logistic-binary 
+131292_0|| DATE || DATE TO BINARY || sample 271749/130(271879) || SUCCESS results-logistic-binary 
+131294_0|| DATE || DATE TO BINARY || sample 271701/178(271879) || SUCCESS results-logistic-binary 
+131296_0|| DATE || DATE TO BINARY || sample 249893/21986(271879) || SUCCESS results-logistic-binary 
+131298_0|| DATE || DATE TO BINARY || sample 257056/14823(271879) || SUCCESS results-logistic-binary 
+131300_0|| DATE || DATE TO BINARY || sample 271324/555(271879) || SUCCESS results-logistic-binary 
+131302_0|| DATE || DATE TO BINARY || sample 271803/76(271879) || SUCCESS results-logistic-binary 
+131304_0|| DATE || DATE TO BINARY || sample 268751/3128(271879) || SUCCESS results-logistic-binary 
+131306_0|| DATE || DATE TO BINARY || sample 239118/32761(271879) || SUCCESS results-logistic-binary 
+131308_0|| DATE || DATE TO BINARY || sample 263608/8271(271879) || SUCCESS results-logistic-binary 
+131310_0|| DATE || DATE TO BINARY || sample 269762/2117(271879) || SUCCESS results-logistic-binary 
+131312_0|| DATE || DATE TO BINARY || sample 271775/104(271879) || SUCCESS results-logistic-binary 
+131314_0|| DATE || DATE TO BINARY || sample 271471/408(271879) || SUCCESS results-logistic-binary 
+131316_0|| DATE || DATE TO BINARY || sample 269428/2451(271879) || SUCCESS results-logistic-binary 
+131318_0|| DATE || DATE-SKIP-10 (271871 vs 8) || 
+131320_0|| DATE || DATE TO BINARY || sample 271428/451(271879) || SUCCESS results-logistic-binary 
+131322_0|| DATE || DATE TO BINARY || sample 266856/5023(271879) || SUCCESS results-logistic-binary 
+131324_0|| DATE || DATE TO BINARY || sample 265922/5957(271879) || SUCCESS results-logistic-binary 
+131326_0|| DATE || DATE TO BINARY || sample 271444/435(271879) || SUCCESS results-logistic-binary 
+131328_0|| DATE || DATE TO BINARY || sample 271259/620(271879) || SUCCESS results-logistic-binary 
+131330_0|| DATE || DATE TO BINARY || sample 271104/775(271879) || SUCCESS results-logistic-binary 
+131332_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+131334_0|| DATE || DATE TO BINARY || sample 271823/56(271879) || SUCCESS results-logistic-binary 
+131336_0|| DATE || DATE-SKIP-10 (271874 vs 5) || 
+131338_0|| DATE || DATE TO BINARY || sample 269540/2339(271879) || SUCCESS results-logistic-binary 
+131340_0|| DATE || DATE TO BINARY || sample 271794/85(271879) || SUCCESS results-logistic-binary 
+131342_0|| DATE || DATE TO BINARY || sample 263183/8696(271879) || SUCCESS results-logistic-binary 
+131344_0|| DATE || DATE TO BINARY || sample 266532/5347(271879) || SUCCESS results-logistic-binary 
+131346_0|| DATE || DATE TO BINARY || sample 269706/2173(271879) || SUCCESS results-logistic-binary 
+131348_0|| DATE || DATE TO BINARY || sample 266656/5223(271879) || SUCCESS results-logistic-binary 
+131350_0|| DATE || DATE TO BINARY || sample 245849/26030(271879) || SUCCESS results-logistic-binary 
+131352_0|| DATE || DATE TO BINARY || sample 263324/8555(271879) || SUCCESS results-logistic-binary 
+131354_0|| DATE || DATE TO BINARY || sample 258506/13373(271879) || SUCCESS results-logistic-binary 
+131356_0|| DATE || DATE TO BINARY || sample 256893/14986(271879) || SUCCESS results-logistic-binary 
+131358_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+131360_0|| DATE || DATE TO BINARY || sample 270585/1294(271879) || SUCCESS results-logistic-binary 
+131362_0|| DATE || DATE TO BINARY || sample 270126/1753(271879) || SUCCESS results-logistic-binary 
+131364_0|| DATE || DATE TO BINARY || sample 270861/1018(271879) || SUCCESS results-logistic-binary 
+131366_0|| DATE || DATE TO BINARY || sample 265110/6769(271879) || SUCCESS results-logistic-binary 
+131368_0|| DATE || DATE TO BINARY || sample 265696/6183(271879) || SUCCESS results-logistic-binary 
+131370_0|| DATE || DATE TO BINARY || sample 269926/1953(271879) || SUCCESS results-logistic-binary 
+131372_0|| DATE || DATE TO BINARY || sample 271725/154(271879) || SUCCESS results-logistic-binary 
+131374_0|| DATE || DATE TO BINARY || sample 263961/7918(271879) || SUCCESS results-logistic-binary 
+131376_0|| DATE || DATE TO BINARY || sample 271749/130(271879) || SUCCESS results-logistic-binary 
+131378_0|| DATE || DATE TO BINARY || sample 269429/2450(271879) || SUCCESS results-logistic-binary 
+131380_0|| DATE || DATE TO BINARY || sample 269070/2809(271879) || SUCCESS results-logistic-binary 
+131382_0|| DATE || DATE TO BINARY || sample 268423/3456(271879) || SUCCESS results-logistic-binary 
+131384_0|| DATE || DATE TO BINARY || sample 270805/1074(271879) || SUCCESS results-logistic-binary 
+131386_0|| DATE || DATE TO BINARY || sample 263282/8597(271879) || SUCCESS results-logistic-binary 
+131388_0|| DATE || DATE TO BINARY || sample 270445/1434(271879) || SUCCESS results-logistic-binary 
+131390_0|| DATE || DATE TO BINARY || sample 269507/2372(271879) || SUCCESS results-logistic-binary 
+131392_0|| DATE || DATE TO BINARY || sample 270128/1751(271879) || SUCCESS results-logistic-binary 
+131394_0|| DATE || DATE TO BINARY || sample 271761/118(271879) || SUCCESS results-logistic-binary 
+131396_0|| DATE || DATE TO BINARY || sample 260079/11800(271879) || SUCCESS results-logistic-binary 
+131398_0|| DATE || DATE TO BINARY || sample 271556/323(271879) || SUCCESS results-logistic-binary 
+131400_0|| DATE || DATE TO BINARY || sample 270966/913(271879) || SUCCESS results-logistic-binary 
+131402_0|| DATE || DATE TO BINARY || sample 257815/14064(271879) || SUCCESS results-logistic-binary 
+131404_0|| DATE || DATE TO BINARY || sample 254723/17156(271879) || SUCCESS results-logistic-binary 
+131406_0|| DATE || DATE TO BINARY || sample 271029/850(271879) || SUCCESS results-logistic-binary 
+131408_0|| DATE || DATE TO BINARY || sample 270592/1287(271879) || SUCCESS results-logistic-binary 
+131410_0|| DATE || DATE TO BINARY || sample 270518/1361(271879) || SUCCESS results-logistic-binary 
+131412_0|| DATE || DATE TO BINARY || sample 271612/267(271879) || SUCCESS results-logistic-binary 
+131414_0|| DATE || DATE TO BINARY || sample 269904/1975(271879) || SUCCESS results-logistic-binary 
+131416_0|| DATE || DATE TO BINARY || sample 257927/13952(271879) || SUCCESS results-logistic-binary 
+131418_0|| DATE || DATE TO BINARY || sample 271634/245(271879) || SUCCESS results-logistic-binary 
+131420_0|| DATE || DATE TO BINARY || sample 271420/459(271879) || SUCCESS results-logistic-binary 
+131422_0|| DATE || DATE TO BINARY || sample 271487/392(271879) || SUCCESS results-logistic-binary 
+131424_0|| DATE || DATE TO BINARY || sample 268669/3210(271879) || SUCCESS results-logistic-binary 
+131426_0|| DATE || DATE TO BINARY || sample 257911/13968(271879) || SUCCESS results-logistic-binary 
+131428_0|| DATE || DATE TO BINARY || sample 258440/13439(271879) || SUCCESS results-logistic-binary 
+131430_0|| DATE || DATE TO BINARY || sample 263441/8438(271879) || SUCCESS results-logistic-binary 
+131432_0|| DATE || DATE TO BINARY || sample 269147/2732(271879) || SUCCESS results-logistic-binary 
+131434_0|| DATE || DATE TO BINARY || sample 271776/103(271879) || SUCCESS results-logistic-binary 
+131436_0|| DATE || DATE TO BINARY || sample 243198/28681(271879) || SUCCESS results-logistic-binary 
+131438_0|| DATE || DATE TO BINARY || sample 271865/14(271879) || SUCCESS results-logistic-binary 
+131440_0|| DATE || DATE TO BINARY || sample 270827/1052(271879) || SUCCESS results-logistic-binary 
+131442_0|| DATE || DATE TO BINARY || sample 265862/6017(271879) || SUCCESS results-logistic-binary 
+131444_0|| DATE || DATE TO BINARY || sample 269749/2130(271879) || SUCCESS results-logistic-binary 
+131446_0|| DATE || DATE TO BINARY || sample 271250/629(271879) || SUCCESS results-logistic-binary 
+131448_0|| DATE || DATE TO BINARY || sample 271708/171(271879) || SUCCESS results-logistic-binary 
+131450_0|| DATE || DATE TO BINARY || sample 270852/1027(271879) || SUCCESS results-logistic-binary 
+131452_0|| DATE || DATE TO BINARY || sample 271816/63(271879) || SUCCESS results-logistic-binary 
+131454_0|| DATE || DATE TO BINARY || sample 271619/260(271879) || SUCCESS results-logistic-binary 
+131456_0|| DATE || DATE TO BINARY || sample 247325/24554(271879) || SUCCESS results-logistic-binary 
+131458_0|| DATE || DATE TO BINARY || sample 268596/3283(271879) || SUCCESS results-logistic-binary 
+131460_0|| DATE || DATE TO BINARY || sample 271772/107(271879) || SUCCESS results-logistic-binary 
+131462_0|| DATE || DATE TO BINARY || sample 233671/38208(271879) || SUCCESS results-logistic-binary 
+131464_0|| DATE || DATE TO BINARY || sample 246034/25845(271879) || SUCCESS results-logistic-binary 
+131466_0|| DATE || DATE TO BINARY || sample 267867/4012(271879) || SUCCESS results-logistic-binary 
+131468_0|| DATE || DATE TO BINARY || sample 264548/7331(271879) || SUCCESS results-logistic-binary 
+131470_0|| DATE || DATE TO BINARY || sample 267452/4427(271879) || SUCCESS results-logistic-binary 
+131472_0|| DATE || DATE TO BINARY || sample 261913/9966(271879) || SUCCESS results-logistic-binary 
+131474_0|| DATE || DATE TO BINARY || sample 270829/1050(271879) || SUCCESS results-logistic-binary 
+131476_0|| DATE || DATE TO BINARY || sample 271361/518(271879) || SUCCESS results-logistic-binary 
+131478_0|| DATE || DATE TO BINARY || sample 271523/356(271879) || SUCCESS results-logistic-binary 
+131480_0|| DATE || DATE TO BINARY || sample 269419/2460(271879) || SUCCESS results-logistic-binary 
+131482_0|| DATE || DATE TO BINARY || sample 270724/1155(271879) || SUCCESS results-logistic-binary 
+131484_0|| DATE || DATE TO BINARY || sample 266550/5329(271879) || SUCCESS results-logistic-binary 
+131486_0|| DATE || DATE TO BINARY || sample 271793/86(271879) || SUCCESS results-logistic-binary 
+131488_0|| DATE || DATE TO BINARY || sample 271417/462(271879) || SUCCESS results-logistic-binary 
+131490_0|| DATE || DATE TO BINARY || sample 268099/3780(271879) || SUCCESS results-logistic-binary 
+131492_0|| DATE || DATE TO BINARY || sample 254891/16988(271879) || SUCCESS results-logistic-binary 
+131494_0|| DATE || DATE TO BINARY || sample 231722/40157(271879) || SUCCESS results-logistic-binary 
+131496_0|| DATE || DATE TO BINARY || sample 271570/309(271879) || SUCCESS results-logistic-binary 
+131498_0|| DATE || DATE TO BINARY || sample 267616/4263(271879) || SUCCESS results-logistic-binary 
+131500_0|| DATE || DATE TO BINARY || sample 271825/54(271879) || SUCCESS results-logistic-binary 
+131502_0|| DATE || DATE TO BINARY || sample 271377/502(271879) || SUCCESS results-logistic-binary 
+131504_0|| DATE || DATE TO BINARY || sample 271864/15(271879) || SUCCESS results-logistic-binary 
+131506_0|| DATE || DATE TO BINARY || sample 271862/17(271879) || SUCCESS results-logistic-binary 
+131508_0|| DATE || DATE TO BINARY || sample 271841/38(271879) || SUCCESS results-logistic-binary 
+131512_0|| DATE || DATE-SKIP-10 (271875 vs 4) || 
+131514_0|| DATE || DATE TO BINARY || sample 271698/181(271879) || SUCCESS results-logistic-binary 
+131516_0|| DATE || DATE TO BINARY || sample 271853/26(271879) || SUCCESS results-logistic-binary 
+131518_0|| DATE || DATE TO BINARY || sample 268954/2925(271879) || SUCCESS results-logistic-binary 
+131520_0|| DATE || DATE TO BINARY || sample 271740/139(271879) || SUCCESS results-logistic-binary 
+131522_0|| DATE || DATE TO BINARY || sample 271598/281(271879) || SUCCESS results-logistic-binary 
+131524_0|| DATE || DATE TO BINARY || sample 271044/835(271879) || SUCCESS results-logistic-binary 
+131526_0|| DATE || DATE TO BINARY || sample 271724/155(271879) || SUCCESS results-logistic-binary 
+131528_0|| DATE || DATE TO BINARY || sample 268863/3016(271879) || SUCCESS results-logistic-binary 
+131530_0|| DATE || DATE TO BINARY || sample 271678/201(271879) || SUCCESS results-logistic-binary 
+131532_0|| DATE || DATE TO BINARY || sample 271346/533(271879) || SUCCESS results-logistic-binary 
+131534_0|| DATE || DATE TO BINARY || sample 260476/11403(271879) || SUCCESS results-logistic-binary 
+131536_0|| DATE || DATE TO BINARY || sample 271515/364(271879) || SUCCESS results-logistic-binary 
+131538_0|| DATE || DATE TO BINARY || sample 270009/1870(271879) || SUCCESS results-logistic-binary 
+131540_0|| DATE || DATE TO BINARY || sample 269609/2270(271879) || SUCCESS results-logistic-binary 
+131542_0|| DATE || DATE TO BINARY || sample 271287/592(271879) || SUCCESS results-logistic-binary 
+131544_0|| DATE || DATE TO BINARY || sample 271359/520(271879) || SUCCESS results-logistic-binary 
+131546_0|| DATE || DATE TO BINARY || sample 266043/5836(271879) || SUCCESS results-logistic-binary 
+131548_0|| DATE || DATE TO BINARY || sample 257698/14181(271879) || SUCCESS results-logistic-binary 
+131550_0|| DATE || DATE TO BINARY || sample 271534/345(271879) || SUCCESS results-logistic-binary 
+131552_0|| DATE || DATE TO BINARY || sample 271686/193(271879) || SUCCESS results-logistic-binary 
+131554_0|| DATE || DATE TO BINARY || sample 270389/1490(271879) || SUCCESS results-logistic-binary 
+131556_0|| DATE || DATE TO BINARY || sample 268487/3392(271879) || SUCCESS results-logistic-binary 
+131558_0|| DATE || DATE TO BINARY || sample 271785/94(271879) || SUCCESS results-logistic-binary 
+131560_0|| DATE || DATE TO BINARY || sample 267266/4613(271879) || SUCCESS results-logistic-binary 
+131562_0|| DATE || DATE TO BINARY || sample 270736/1143(271879) || SUCCESS results-logistic-binary 
+131564_0|| DATE || DATE TO BINARY || sample 271358/521(271879) || SUCCESS results-logistic-binary 
+131566_0|| DATE || DATE TO BINARY || sample 270301/1578(271879) || SUCCESS results-logistic-binary 
+131568_0|| DATE || DATE TO BINARY || sample 268791/3088(271879) || SUCCESS results-logistic-binary 
+131570_0|| DATE || DATE TO BINARY || sample 271338/541(271879) || SUCCESS results-logistic-binary 
+131572_0|| DATE || DATE TO BINARY || sample 270740/1139(271879) || SUCCESS results-logistic-binary 
+131574_0|| DATE || DATE TO BINARY || sample 269702/2177(271879) || SUCCESS results-logistic-binary 
+131576_0|| DATE || DATE TO BINARY || sample 269192/2687(271879) || SUCCESS results-logistic-binary 
+131578_0|| DATE || DATE TO BINARY || sample 267403/4476(271879) || SUCCESS results-logistic-binary 
+131580_0|| DATE || DATE TO BINARY || sample 269517/2362(271879) || SUCCESS results-logistic-binary 
+131582_0|| DATE || DATE TO BINARY || sample 260709/11170(271879) || SUCCESS results-logistic-binary 
+131584_0|| DATE || DATE TO BINARY || sample 227241/44638(271879) || SUCCESS results-logistic-binary 
+131586_0|| DATE || DATE TO BINARY || sample 257942/13937(271879) || SUCCESS results-logistic-binary 
+131588_0|| DATE || DATE TO BINARY || sample 271819/60(271879) || SUCCESS results-logistic-binary 
+131590_0|| DATE || DATE TO BINARY || sample 264581/7298(271879) || SUCCESS results-logistic-binary 
+131592_0|| DATE || DATE TO BINARY || sample 266152/5727(271879) || SUCCESS results-logistic-binary 
+131594_0|| DATE || DATE TO BINARY || sample 270786/1093(271879) || SUCCESS results-logistic-binary 
+131596_0|| DATE || DATE TO BINARY || sample 271790/89(271879) || SUCCESS results-logistic-binary 
+131598_0|| DATE || DATE TO BINARY || sample 236227/35652(271879) || SUCCESS results-logistic-binary 
+131600_0|| DATE || DATE TO BINARY || sample 260722/11157(271879) || SUCCESS results-logistic-binary 
+131602_0|| DATE || DATE TO BINARY || sample 259358/12521(271879) || SUCCESS results-logistic-binary 
+131604_0|| DATE || DATE TO BINARY || sample 268779/3100(271879) || SUCCESS results-logistic-binary 
+131606_0|| DATE || DATE TO BINARY || sample 271760/119(271879) || SUCCESS results-logistic-binary 
+131608_0|| DATE || DATE TO BINARY || sample 268819/3060(271879) || SUCCESS results-logistic-binary 
+131610_0|| DATE || DATE TO BINARY || sample 271478/401(271879) || SUCCESS results-logistic-binary 
+131612_0|| DATE || DATE TO BINARY || sample 253198/18681(271879) || SUCCESS results-logistic-binary 
+131614_0|| DATE || DATE TO BINARY || sample 270918/961(271879) || SUCCESS results-logistic-binary 
+131616_0|| DATE || DATE TO BINARY || sample 266657/5222(271879) || SUCCESS results-logistic-binary 
+131618_0|| DATE || DATE TO BINARY || sample 267188/4691(271879) || SUCCESS results-logistic-binary 
+131620_0|| DATE || DATE TO BINARY || sample 236998/34881(271879) || SUCCESS results-logistic-binary 
+131622_0|| DATE || DATE TO BINARY || sample 271687/192(271879) || SUCCESS results-logistic-binary 
+131624_0|| DATE || DATE TO BINARY || sample 270423/1456(271879) || SUCCESS results-logistic-binary 
+131626_0|| DATE || DATE TO BINARY || sample 269856/2023(271879) || SUCCESS results-logistic-binary 
+131628_0|| DATE || DATE TO BINARY || sample 268179/3700(271879) || SUCCESS results-logistic-binary 
+131630_0|| DATE || DATE TO BINARY || sample 254176/17703(271879) || SUCCESS results-logistic-binary 
+131632_0|| DATE || DATE TO BINARY || sample 269499/2380(271879) || SUCCESS results-logistic-binary 
+131634_0|| DATE || DATE TO BINARY || sample 264911/6968(271879) || SUCCESS results-logistic-binary 
+131636_0|| DATE || DATE TO BINARY || sample 229610/42269(271879) || SUCCESS results-logistic-binary 
+131638_0|| DATE || DATE TO BINARY || sample 251990/19889(271879) || SUCCESS results-logistic-binary 
+131640_0|| DATE || DATE TO BINARY || sample 249064/22815(271879) || SUCCESS results-logistic-binary 
+131642_0|| DATE || DATE TO BINARY || sample 268103/3776(271879) || SUCCESS results-logistic-binary 
+131644_0|| DATE || DATE TO BINARY || sample 269940/1939(271879) || SUCCESS results-logistic-binary 
+131646_0|| DATE || DATE TO BINARY || sample 244659/27220(271879) || SUCCESS results-logistic-binary 
+131648_0|| DATE || DATE TO BINARY || sample 249462/22417(271879) || SUCCESS results-logistic-binary 
+131650_0|| DATE || DATE TO BINARY || sample 244521/27358(271879) || SUCCESS results-logistic-binary 
+131652_0|| DATE || DATE TO BINARY || sample 269472/2407(271879) || SUCCESS results-logistic-binary 
+131654_0|| DATE || DATE TO BINARY || sample 266324/5555(271879) || SUCCESS results-logistic-binary 
+131656_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+131658_0|| DATE || DATE TO BINARY || sample 270380/1499(271879) || SUCCESS results-logistic-binary 
+131660_0|| DATE || DATE TO BINARY || sample 271754/125(271879) || SUCCESS results-logistic-binary 
+131662_0|| DATE || DATE TO BINARY || sample 270998/881(271879) || SUCCESS results-logistic-binary 
+131664_0|| DATE || DATE TO BINARY || sample 271690/189(271879) || SUCCESS results-logistic-binary 
+131666_0|| DATE || DATE TO BINARY || sample 270005/1874(271879) || SUCCESS results-logistic-binary 
+131668_0|| DATE || DATE TO BINARY || sample 270014/1865(271879) || SUCCESS results-logistic-binary 
+131670_0|| DATE || DATE TO BINARY || sample 262373/9506(271879) || SUCCESS results-logistic-binary 
+131672_0|| DATE || DATE TO BINARY || sample 271860/19(271879) || SUCCESS results-logistic-binary 
+131674_0|| DATE || DATE TO BINARY || sample 251340/20539(271879) || SUCCESS results-logistic-binary 
+131676_0|| DATE || DATE TO BINARY || sample 267884/3995(271879) || SUCCESS results-logistic-binary 
+131678_0|| DATE || DATE TO BINARY || sample 269109/2770(271879) || SUCCESS results-logistic-binary 
+131680_0|| DATE || DATE TO BINARY || sample 268049/3830(271879) || SUCCESS results-logistic-binary 
+131682_0|| DATE || DATE TO BINARY || sample 268835/3044(271879) || SUCCESS results-logistic-binary 
+131684_0|| DATE || DATE TO BINARY || sample 269587/2292(271879) || SUCCESS results-logistic-binary 
+131686_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+131688_0|| DATE || DATE TO BINARY || sample 268805/3074(271879) || SUCCESS results-logistic-binary 
+131690_0|| DATE || DATE TO BINARY || sample 269501/2378(271879) || SUCCESS results-logistic-binary 
+131692_0|| DATE || DATE TO BINARY || sample 256496/15383(271879) || SUCCESS results-logistic-binary 
+131694_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+131696_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+131698_0|| DATE || DATE TO BINARY || sample 270984/895(271879) || SUCCESS results-logistic-binary 
+131700_0|| DATE || DATE TO BINARY || sample 264729/7150(271879) || SUCCESS results-logistic-binary 
+131702_0|| DATE || DATE TO BINARY || sample 251950/19929(271879) || SUCCESS results-logistic-binary 
+131704_0|| DATE || DATE TO BINARY || sample 271422/457(271879) || SUCCESS results-logistic-binary 
+131706_0|| DATE || DATE TO BINARY || sample 270976/903(271879) || SUCCESS results-logistic-binary 
+131708_0|| DATE || DATE TO BINARY || sample 262519/9360(271879) || SUCCESS results-logistic-binary 
+131710_0|| DATE || DATE TO BINARY || sample 271828/51(271879) || SUCCESS results-logistic-binary 
+131712_0|| DATE || DATE TO BINARY || sample 271804/75(271879) || SUCCESS results-logistic-binary 
+131714_0|| DATE || DATE TO BINARY || sample 271704/175(271879) || SUCCESS results-logistic-binary 
+131716_0|| DATE || DATE TO BINARY || sample 271334/545(271879) || SUCCESS results-logistic-binary 
+131718_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+131720_0|| DATE || DATE TO BINARY || sample 264216/7663(271879) || SUCCESS results-logistic-binary 
+131722_0|| DATE || DATE TO BINARY || sample 266349/5530(271879) || SUCCESS results-logistic-binary 
+131724_0|| DATE || DATE TO BINARY || sample 271840/39(271879) || SUCCESS results-logistic-binary 
+131726_0|| DATE || DATE TO BINARY || sample 271217/662(271879) || SUCCESS results-logistic-binary 
+131728_0|| DATE || DATE TO BINARY || sample 270908/971(271879) || SUCCESS results-logistic-binary 
+131730_0|| DATE || DATE TO BINARY || sample 270068/1811(271879) || SUCCESS results-logistic-binary 
+131732_0|| DATE || DATE TO BINARY || sample 271867/12(271879) || SUCCESS results-logistic-binary 
+131734_0|| DATE || DATE TO BINARY || sample 271005/874(271879) || SUCCESS results-logistic-binary 
+131736_0|| DATE || DATE TO BINARY || sample 270920/959(271879) || SUCCESS results-logistic-binary 
+131738_0|| DATE || DATE TO BINARY || sample 264616/7263(271879) || SUCCESS results-logistic-binary 
+131740_0|| DATE || DATE TO BINARY || sample 245181/26698(271879) || SUCCESS results-logistic-binary 
+131742_0|| DATE || DATE TO BINARY || sample 263224/8655(271879) || SUCCESS results-logistic-binary 
+131744_0|| DATE || DATE TO BINARY || sample 271799/80(271879) || SUCCESS results-logistic-binary 
+131746_0|| DATE || DATE TO BINARY || sample 270926/953(271879) || SUCCESS results-logistic-binary 
+131748_0|| DATE || DATE TO BINARY || sample 270413/1466(271879) || SUCCESS results-logistic-binary 
+131750_0|| DATE || DATE TO BINARY || sample 271843/36(271879) || SUCCESS results-logistic-binary 
+131754_0|| DATE || DATE TO BINARY || sample 265817/6062(271879) || SUCCESS results-logistic-binary 
+131756_0|| DATE || DATE TO BINARY || sample 271678/201(271879) || SUCCESS results-logistic-binary 
+131758_0|| DATE || DATE TO BINARY || sample 271711/168(271879) || SUCCESS results-logistic-binary 
+131760_0|| DATE || DATE TO BINARY || sample 270742/1137(271879) || SUCCESS results-logistic-binary 
+131762_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+131764_0|| DATE || DATE TO BINARY || sample 271630/249(271879) || SUCCESS results-logistic-binary 
+131766_0|| DATE || DATE TO BINARY || sample 271484/395(271879) || SUCCESS results-logistic-binary 
+131768_0|| DATE || DATE TO BINARY || sample 259352/12527(271879) || SUCCESS results-logistic-binary 
+131770_0|| DATE || DATE TO BINARY || sample 271860/19(271879) || SUCCESS results-logistic-binary 
+131772_0|| DATE || DATE TO BINARY || sample 271832/47(271879) || SUCCESS results-logistic-binary 
+131774_0|| DATE || DATE TO BINARY || sample 265282/6597(271879) || SUCCESS results-logistic-binary 
+131776_0|| DATE || DATE-SKIP-10 (271879 vs 0) || 
+131778_0|| DATE || DATE TO BINARY || sample 271396/483(271879) || SUCCESS results-logistic-binary 
+131780_0|| DATE || DATE TO BINARY || sample 271817/62(271879) || SUCCESS results-logistic-binary 
+131782_0|| DATE || DATE TO BINARY || sample 270161/1718(271879) || SUCCESS results-logistic-binary 
+131784_0|| DATE || DATE TO BINARY || sample 271765/114(271879) || SUCCESS results-logistic-binary 
+131786_0|| DATE || DATE TO BINARY || sample 271858/21(271879) || SUCCESS results-logistic-binary 
+131788_0|| DATE || DATE TO BINARY || sample 271611/268(271879) || SUCCESS results-logistic-binary 
+131790_0|| DATE || DATE TO BINARY || sample 268645/3234(271879) || SUCCESS results-logistic-binary 
+131792_0|| DATE || DATE TO BINARY || sample 268444/3435(271879) || SUCCESS results-logistic-binary 
+131794_0|| DATE || DATE TO BINARY || sample 262634/9245(271879) || SUCCESS results-logistic-binary 
+131796_0|| DATE || DATE TO BINARY || sample 269683/2196(271879) || SUCCESS results-logistic-binary 
+131798_0|| DATE || DATE TO BINARY || sample 271234/645(271879) || SUCCESS results-logistic-binary 
+131800_0|| DATE || DATE-SKIP-10 (271872 vs 7) || 
+131802_0|| DATE || DATE TO BINARY || sample 271302/577(271879) || SUCCESS results-logistic-binary 
+131804_0|| DATE || DATE TO BINARY || sample 269211/2668(271879) || SUCCESS results-logistic-binary 
+131806_0|| DATE || DATE TO BINARY || sample 253552/18327(271879) || SUCCESS results-logistic-binary 
+131808_0|| DATE || DATE TO BINARY || sample 271746/133(271879) || SUCCESS results-logistic-binary 
+131810_0|| DATE || DATE TO BINARY || sample 269714/2165(271879) || SUCCESS results-logistic-binary 
+131812_0|| DATE || DATE TO BINARY || sample 269520/2359(271879) || SUCCESS results-logistic-binary 
+131814_0|| DATE || DATE-SKIP-10 (271879 vs 0) || 
+131816_0|| DATE || DATE TO BINARY || sample 271867/12(271879) || SUCCESS results-logistic-binary 
+131818_0|| DATE || DATE TO BINARY || sample 271821/58(271879) || SUCCESS results-logistic-binary 
+131820_0|| DATE || DATE TO BINARY || sample 267810/4069(271879) || SUCCESS results-logistic-binary 
+131822_0|| DATE || DATE TO BINARY || sample 268165/3714(271879) || SUCCESS results-logistic-binary 
+131824_0|| DATE || DATE TO BINARY || sample 268984/2895(271879) || SUCCESS results-logistic-binary 
+131826_0|| DATE || DATE TO BINARY || sample 270761/1118(271879) || SUCCESS results-logistic-binary 
+131828_0|| DATE || DATE TO BINARY || sample 271612/267(271879) || SUCCESS results-logistic-binary 
+131830_0|| DATE || DATE TO BINARY || sample 271517/362(271879) || SUCCESS results-logistic-binary 
+131832_0|| DATE || DATE TO BINARY || sample 271663/216(271879) || SUCCESS results-logistic-binary 
+131834_0|| DATE || DATE TO BINARY || sample 269152/2727(271879) || SUCCESS results-logistic-binary 
+131836_0|| DATE || DATE TO BINARY || sample 243413/28466(271879) || SUCCESS results-logistic-binary 
+131838_0|| DATE || DATE TO BINARY || sample 271863/16(271879) || SUCCESS results-logistic-binary 
+131840_0|| DATE || DATE TO BINARY || sample 271243/636(271879) || SUCCESS results-logistic-binary 
+131842_0|| DATE || DATE TO BINARY || sample 271854/25(271879) || SUCCESS results-logistic-binary 
+131844_0|| DATE || DATE TO BINARY || sample 271711/168(271879) || SUCCESS results-logistic-binary 
+131846_0|| DATE || DATE-SKIP-10 (271871 vs 8) || 
+131848_0|| DATE || DATE TO BINARY || sample 270987/892(271879) || SUCCESS results-logistic-binary 
+131850_0|| DATE || DATE TO BINARY || sample 264383/7496(271879) || SUCCESS results-logistic-binary 
+131852_0|| DATE || DATE TO BINARY || sample 270955/924(271879) || SUCCESS results-logistic-binary 
+131854_0|| DATE || DATE TO BINARY || sample 271811/68(271879) || SUCCESS results-logistic-binary 
+131856_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+131858_0|| DATE || DATE TO BINARY || sample 260130/11749(271879) || SUCCESS results-logistic-binary 
+131860_0|| DATE || DATE TO BINARY || sample 271089/790(271879) || SUCCESS results-logistic-binary 
+131862_0|| DATE || DATE TO BINARY || sample 271417/462(271879) || SUCCESS results-logistic-binary 
+131864_0|| DATE || DATE TO BINARY || sample 246396/25483(271879) || SUCCESS results-logistic-binary 
+131866_0|| DATE || DATE TO BINARY || sample 271685/194(271879) || SUCCESS results-logistic-binary 
+131868_0|| DATE || DATE TO BINARY || sample 261950/9929(271879) || SUCCESS results-logistic-binary 
+131870_0|| DATE || DATE TO BINARY || sample 253323/18556(271879) || SUCCESS results-logistic-binary 
+131872_0|| DATE || DATE TO BINARY || sample 244013/27866(271879) || SUCCESS results-logistic-binary 
+131874_0|| DATE || DATE TO BINARY || sample 270124/1755(271879) || SUCCESS results-logistic-binary 
+131876_0|| DATE || DATE TO BINARY || sample 219023/52856(271879) || SUCCESS results-logistic-binary 
+131878_0|| DATE || DATE TO BINARY || sample 259281/12598(271879) || SUCCESS results-logistic-binary 
+131880_0|| DATE || DATE TO BINARY || sample 268150/3729(271879) || SUCCESS results-logistic-binary 
+131882_0|| DATE || DATE TO BINARY || sample 270051/1828(271879) || SUCCESS results-logistic-binary 
+131884_0|| DATE || DATE TO BINARY || sample 258910/12969(271879) || SUCCESS results-logistic-binary 
+131886_0|| DATE || DATE TO BINARY || sample 268811/3068(271879) || SUCCESS results-logistic-binary 
+131888_0|| DATE || DATE TO BINARY || sample 219480/52399(271879) || SUCCESS results-logistic-binary 
+131890_0|| DATE || DATE TO BINARY || sample 271745/134(271879) || SUCCESS results-logistic-binary 
+131892_0|| DATE || DATE TO BINARY || sample 270548/1331(271879) || SUCCESS results-logistic-binary 
+131894_0|| DATE || DATE TO BINARY || sample 271336/543(271879) || SUCCESS results-logistic-binary 
+131896_0|| DATE || DATE TO BINARY || sample 271738/141(271879) || SUCCESS results-logistic-binary 
+131898_0|| DATE || DATE TO BINARY || sample 271639/240(271879) || SUCCESS results-logistic-binary 
+131900_0|| DATE || DATE TO BINARY || sample 267290/4589(271879) || SUCCESS results-logistic-binary 
+131902_0|| DATE || DATE TO BINARY || sample 271853/26(271879) || SUCCESS results-logistic-binary 
+131904_0|| DATE || DATE TO BINARY || sample 271163/716(271879) || SUCCESS results-logistic-binary 
+131906_0|| DATE || DATE TO BINARY || sample 269006/2873(271879) || SUCCESS results-logistic-binary 
+131908_0|| DATE || DATE TO BINARY || sample 271779/100(271879) || SUCCESS results-logistic-binary 
+131910_0|| DATE || DATE TO BINARY || sample 267620/4259(271879) || SUCCESS results-logistic-binary 
+131912_0|| DATE || DATE TO BINARY || sample 270590/1289(271879) || SUCCESS results-logistic-binary 
+131914_0|| DATE || DATE TO BINARY || sample 268686/3193(271879) || SUCCESS results-logistic-binary 
+131916_0|| DATE || DATE TO BINARY || sample 250295/21584(271879) || SUCCESS results-logistic-binary 
+131918_0|| DATE || DATE TO BINARY || sample 261441/10438(271879) || SUCCESS results-logistic-binary 
+131920_0|| DATE || DATE TO BINARY || sample 271604/275(271879) || SUCCESS results-logistic-binary 
+131922_0|| DATE || DATE TO BINARY || sample 268925/2954(271879) || SUCCESS results-logistic-binary 
+131924_0|| DATE || DATE TO BINARY || sample 255803/16076(271879) || SUCCESS results-logistic-binary 
+131926_0|| DATE || DATE TO BINARY || sample 268202/3677(271879) || SUCCESS results-logistic-binary 
+131928_0|| DATE || DATE TO BINARY || sample 226431/45448(271879) || SUCCESS results-logistic-binary 
+131930_0|| DATE || DATE TO BINARY || sample 271424/455(271879) || SUCCESS results-logistic-binary 
+131932_0|| DATE || DATE TO BINARY || sample 271829/50(271879) || SUCCESS results-logistic-binary 
+131934_0|| DATE || DATE TO BINARY || sample 268736/3143(271879) || SUCCESS results-logistic-binary 
+131936_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+131938_0|| DATE || DATE TO BINARY || sample 260410/11469(271879) || SUCCESS results-logistic-binary 
+131940_0|| DATE || DATE TO BINARY || sample 270976/903(271879) || SUCCESS results-logistic-binary 
+131942_0|| DATE || DATE TO BINARY || sample 265056/6823(271879) || SUCCESS results-logistic-binary 
+131944_0|| DATE || DATE-SKIP-10 (271875 vs 4) || 
+131946_0|| DATE || DATE TO BINARY || sample 262057/9822(271879) || SUCCESS results-logistic-binary 
+131948_0|| DATE || DATE TO BINARY || sample 269719/2160(271879) || SUCCESS results-logistic-binary 
+131950_0|| DATE || DATE TO BINARY || sample 257567/14312(271879) || SUCCESS results-logistic-binary 
+131952_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+131954_0|| DATE || DATE TO BINARY || sample 252285/19594(271879) || SUCCESS results-logistic-binary 
+131956_0|| DATE || DATE TO BINARY || sample 267312/4567(271879) || SUCCESS results-logistic-binary 
+131958_0|| DATE || DATE TO BINARY || sample 253681/18198(271879) || SUCCESS results-logistic-binary 
+131960_0|| DATE || DATE TO BINARY || sample 220967/50912(271879) || SUCCESS results-logistic-binary 
+131962_0|| DATE || DATE TO BINARY || sample 270261/1618(271879) || SUCCESS results-logistic-binary 
+131964_0|| DATE || DATE TO BINARY || sample 256442/15437(271879) || SUCCESS results-logistic-binary 
+131966_0|| DATE || DATE TO BINARY || sample 271773/106(271879) || SUCCESS results-logistic-binary 
+131968_0|| DATE || DATE TO BINARY || sample 271793/86(271879) || SUCCESS results-logistic-binary 
+131970_0|| DATE || DATE TO BINARY || sample 269131/2748(271879) || SUCCESS results-logistic-binary 
+131972_0|| DATE || DATE TO BINARY || sample 262412/9467(271879) || SUCCESS results-logistic-binary 
+131974_0|| DATE || DATE TO BINARY || sample 270156/1723(271879) || SUCCESS results-logistic-binary 
+131976_0|| DATE || DATE TO BINARY || sample 271105/774(271879) || SUCCESS results-logistic-binary 
+131978_0|| DATE || DATE TO BINARY || sample 271615/264(271879) || SUCCESS results-logistic-binary 
+131980_0|| DATE || DATE TO BINARY || sample 268752/3127(271879) || SUCCESS results-logistic-binary 
+131982_0|| DATE || DATE TO BINARY || sample 271225/654(271879) || SUCCESS results-logistic-binary 
+131984_0|| DATE || DATE TO BINARY || sample 271753/126(271879) || SUCCESS results-logistic-binary 
+131986_0|| DATE || DATE TO BINARY || sample 271466/413(271879) || SUCCESS results-logistic-binary 
+131988_0|| DATE || DATE TO BINARY || sample 271366/513(271879) || SUCCESS results-logistic-binary 
+131990_0|| DATE || DATE TO BINARY || sample 270219/1660(271879) || SUCCESS results-logistic-binary 
+131992_0|| DATE || DATE TO BINARY || sample 270602/1277(271879) || SUCCESS results-logistic-binary 
+131994_0|| DATE || DATE TO BINARY || sample 271013/866(271879) || SUCCESS results-logistic-binary 
+131996_0|| DATE || DATE TO BINARY || sample 271535/344(271879) || SUCCESS results-logistic-binary 
+131998_0|| DATE || DATE TO BINARY || sample 271696/183(271879) || SUCCESS results-logistic-binary 
+132000_0|| DATE || DATE TO BINARY || sample 271865/14(271879) || SUCCESS results-logistic-binary 
+132002_0|| DATE || DATE TO BINARY || sample 270944/935(271879) || SUCCESS results-logistic-binary 
+132004_0|| DATE || DATE TO BINARY || sample 271131/748(271879) || SUCCESS results-logistic-binary 
+132006_0|| DATE || DATE TO BINARY || sample 271589/290(271879) || SUCCESS results-logistic-binary 
+132008_0|| DATE || DATE TO BINARY || sample 271408/471(271879) || SUCCESS results-logistic-binary 
+132010_0|| DATE || DATE TO BINARY || sample 271868/11(271879) || SUCCESS results-logistic-binary 
+132012_0|| DATE || DATE-SKIP-10 (271874 vs 5) || 
+132014_0|| DATE || DATE TO BINARY || sample 271210/669(271879) || SUCCESS results-logistic-binary 
+132016_0|| DATE || DATE TO BINARY || sample 270914/965(271879) || SUCCESS results-logistic-binary 
+132018_0|| DATE || DATE TO BINARY || sample 271657/222(271879) || SUCCESS results-logistic-binary 
+132020_0|| DATE || DATE TO BINARY || sample 270280/1599(271879) || SUCCESS results-logistic-binary 
+132022_0|| DATE || DATE TO BINARY || sample 267102/4777(271879) || SUCCESS results-logistic-binary 
+132024_0|| DATE || DATE TO BINARY || sample 271812/67(271879) || SUCCESS results-logistic-binary 
+132026_0|| DATE || DATE TO BINARY || sample 271746/133(271879) || SUCCESS results-logistic-binary 
+132028_0|| DATE || DATE TO BINARY || sample 271836/43(271879) || SUCCESS results-logistic-binary 
+132030_0|| DATE || DATE TO BINARY || sample 255544/16335(271879) || SUCCESS results-logistic-binary 
+132032_0|| DATE || DATE TO BINARY || sample 253589/18290(271879) || SUCCESS results-logistic-binary 
+132034_0|| DATE || DATE TO BINARY || sample 269542/2337(271879) || SUCCESS results-logistic-binary 
+132036_0|| DATE || DATE TO BINARY || sample 264658/7221(271879) || SUCCESS results-logistic-binary 
+132038_0|| DATE || DATE TO BINARY || sample 270707/1172(271879) || SUCCESS results-logistic-binary 
+132040_0|| DATE || DATE-SKIP-10 (271879 vs 0) || 
+132042_0|| DATE || DATE TO BINARY || sample 268700/3179(271879) || SUCCESS results-logistic-binary 
+132044_0|| DATE || DATE TO BINARY || sample 271724/155(271879) || SUCCESS results-logistic-binary 
+132046_0|| DATE || DATE TO BINARY || sample 271561/318(271879) || SUCCESS results-logistic-binary 
+132048_0|| DATE || DATE TO BINARY || sample 271781/98(271879) || SUCCESS results-logistic-binary 
+132050_0|| DATE || DATE TO BINARY || sample 265247/6632(271879) || SUCCESS results-logistic-binary 
+132052_0|| DATE || DATE TO BINARY || sample 271838/41(271879) || SUCCESS results-logistic-binary 
+132054_0|| DATE || DATE TO BINARY || sample 261079/10800(271879) || SUCCESS results-logistic-binary 
+132056_0|| DATE || DATE TO BINARY || sample 268900/2979(271879) || SUCCESS results-logistic-binary 
+132058_0|| DATE || DATE TO BINARY || sample 259012/12867(271879) || SUCCESS results-logistic-binary 
+132060_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+132062_0|| DATE || DATE TO BINARY || sample 271247/632(271879) || SUCCESS results-logistic-binary 
+132064_0|| DATE || DATE TO BINARY || sample 268335/3544(271879) || SUCCESS results-logistic-binary 
+132066_0|| DATE || DATE TO BINARY || sample 270841/1038(271879) || SUCCESS results-logistic-binary 
+132068_0|| DATE || DATE-SKIP-10 (271874 vs 5) || 
+132070_0|| DATE || DATE TO BINARY || sample 237395/34484(271879) || SUCCESS results-logistic-binary 
+132072_0|| DATE || DATE TO BINARY || sample 251438/20441(271879) || SUCCESS results-logistic-binary 
+132074_0|| DATE || DATE TO BINARY || sample 269243/2636(271879) || SUCCESS results-logistic-binary 
+132076_0|| DATE || DATE TO BINARY || sample 269796/2083(271879) || SUCCESS results-logistic-binary 
+132078_0|| DATE || DATE TO BINARY || sample 270180/1699(271879) || SUCCESS results-logistic-binary 
+132080_0|| DATE || DATE TO BINARY || sample 271755/124(271879) || SUCCESS results-logistic-binary 
+132082_0|| DATE || DATE TO BINARY || sample 270073/1806(271879) || SUCCESS results-logistic-binary 
+132084_0|| DATE || DATE TO BINARY || sample 271576/303(271879) || SUCCESS results-logistic-binary 
+132086_0|| DATE || DATE TO BINARY || sample 269311/2568(271879) || SUCCESS results-logistic-binary 
+132088_0|| DATE || DATE TO BINARY || sample 267504/4375(271879) || SUCCESS results-logistic-binary 
+132090_0|| DATE || DATE TO BINARY || sample 271551/328(271879) || SUCCESS results-logistic-binary 
+132092_0|| DATE || DATE TO BINARY || sample 265112/6767(271879) || SUCCESS results-logistic-binary 
+132094_0|| DATE || DATE TO BINARY || sample 271842/37(271879) || SUCCESS results-logistic-binary 
+132096_0|| DATE || DATE TO BINARY || sample 265040/6839(271879) || SUCCESS results-logistic-binary 
+132098_0|| DATE || DATE TO BINARY || sample 270696/1183(271879) || SUCCESS results-logistic-binary 
+132100_0|| DATE || DATE TO BINARY || sample 270708/1171(271879) || SUCCESS results-logistic-binary 
+132102_0|| DATE || DATE TO BINARY || sample 263046/8833(271879) || SUCCESS results-logistic-binary 
+132104_0|| DATE || DATE TO BINARY || sample 264321/7558(271879) || SUCCESS results-logistic-binary 
+132106_0|| DATE || DATE TO BINARY || sample 271285/594(271879) || SUCCESS results-logistic-binary 
+132108_0|| DATE || DATE TO BINARY || sample 271567/312(271879) || SUCCESS results-logistic-binary 
+132110_0|| DATE || DATE TO BINARY || sample 270708/1171(271879) || SUCCESS results-logistic-binary 
+132112_0|| DATE || DATE TO BINARY || sample 268990/2889(271879) || SUCCESS results-logistic-binary 
+132114_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+132116_0|| DATE || DATE TO BINARY || sample 270600/1279(271879) || SUCCESS results-logistic-binary 
+132118_0|| DATE || DATE TO BINARY || sample 269050/2829(271879) || SUCCESS results-logistic-binary 
+132120_0|| DATE || DATE TO BINARY || sample 271558/321(271879) || SUCCESS results-logistic-binary 
+132122_0|| DATE || DATE TO BINARY || sample 266530/5349(271879) || SUCCESS results-logistic-binary 
+132124_0|| DATE || DATE TO BINARY || sample 259395/12484(271879) || SUCCESS results-logistic-binary 
+132126_0|| DATE || DATE TO BINARY || sample 271629/250(271879) || SUCCESS results-logistic-binary 
+132128_0|| DATE || DATE TO BINARY || sample 264476/7403(271879) || SUCCESS results-logistic-binary 
+132130_0|| DATE || DATE TO BINARY || sample 261520/10359(271879) || SUCCESS results-logistic-binary 
+132132_0|| DATE || DATE TO BINARY || sample 267070/4809(271879) || SUCCESS results-logistic-binary 
+132134_0|| DATE || DATE TO BINARY || sample 270770/1109(271879) || SUCCESS results-logistic-binary 
+132136_0|| DATE || DATE TO BINARY || sample 267663/4216(271879) || SUCCESS results-logistic-binary 
+132138_0|| DATE || DATE TO BINARY || sample 270064/1815(271879) || SUCCESS results-logistic-binary 
+132140_0|| DATE || DATE TO BINARY || sample 265070/6809(271879) || SUCCESS results-logistic-binary 
+132142_0|| DATE || DATE TO BINARY || sample 268113/3766(271879) || SUCCESS results-logistic-binary 
+132144_0|| DATE || DATE TO BINARY || sample 270615/1264(271879) || SUCCESS results-logistic-binary 
+132146_0|| DATE || DATE TO BINARY || sample 256292/15587(271879) || SUCCESS results-logistic-binary 
+132148_0|| DATE || DATE TO BINARY || sample 265850/6029(271879) || SUCCESS results-logistic-binary 
+132150_0|| DATE || DATE TO BINARY || sample 265231/6648(271879) || SUCCESS results-logistic-binary 
+132152_0|| DATE || DATE TO BINARY || sample 250111/21768(271879) || SUCCESS results-logistic-binary 
+132154_0|| DATE || DATE TO BINARY || sample 271865/14(271879) || SUCCESS results-logistic-binary 
+132156_0|| DATE || DATE TO BINARY || sample 269778/2101(271879) || SUCCESS results-logistic-binary 
+132158_0|| DATE || DATE TO BINARY || sample 271849/30(271879) || SUCCESS results-logistic-binary 
+132160_0|| DATE || DATE TO BINARY || sample 270706/1173(271879) || SUCCESS results-logistic-binary 
+132162_0|| DATE || DATE TO BINARY || sample 271391/488(271879) || SUCCESS results-logistic-binary 
+132164_0|| DATE || DATE TO BINARY || sample 271787/92(271879) || SUCCESS results-logistic-binary 
+132166_0|| DATE || DATE TO BINARY || sample 270653/1226(271879) || SUCCESS results-logistic-binary 
+132168_0|| DATE || DATE TO BINARY || sample 268811/3068(271879) || SUCCESS results-logistic-binary 
+132170_0|| DATE || DATE TO BINARY || sample 269949/1930(271879) || SUCCESS results-logistic-binary 
+132172_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+132174_0|| DATE || DATE TO BINARY || sample 271598/281(271879) || SUCCESS results-logistic-binary 
+132176_0|| DATE || DATE TO BINARY || sample 271867/12(271879) || MODEL DID NOT CONVERGE
+132178_0|| DATE || DATE TO BINARY || sample 271846/33(271879) || SUCCESS results-logistic-binary 
+132180_0|| DATE || DATE TO BINARY || sample 271825/54(271879) || SUCCESS results-logistic-binary 
+132182_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+132184_0|| DATE || DATE TO BINARY || sample 271768/111(271879) || SUCCESS results-logistic-binary 
+132186_0|| DATE || DATE TO BINARY || sample 271456/423(271879) || SUCCESS results-logistic-binary 
+132188_0|| DATE || DATE TO BINARY || sample 271602/277(271879) || SUCCESS results-logistic-binary 
+132190_0|| DATE || DATE TO BINARY || sample 271817/62(271879) || SUCCESS results-logistic-binary 
+132192_0|| DATE || DATE TO BINARY || sample 270350/1529(271879) || SUCCESS results-logistic-binary 
+132194_0|| DATE || DATE TO BINARY || sample 271115/764(271879) || SUCCESS results-logistic-binary 
+132196_0|| DATE || DATE TO BINARY || sample 271693/186(271879) || SUCCESS results-logistic-binary 
+132198_0|| DATE || DATE TO BINARY || sample 271808/71(271879) || SUCCESS results-logistic-binary 
+132200_0|| DATE || DATE TO BINARY || sample 271710/169(271879) || SUCCESS results-logistic-binary 
+132202_0|| DATE || DATE TO BINARY || sample 271526/353(271879) || SUCCESS results-logistic-binary 
+132204_0|| DATE || DATE-SKIP-10 (271879 vs 0) || 
+132206_0|| DATE || DATE TO BINARY || sample 270757/1122(271879) || SUCCESS results-logistic-binary 
+132208_0|| DATE || DATE TO BINARY || sample 271810/69(271879) || SUCCESS results-logistic-binary 
+132210_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+132212_0|| DATE || DATE TO BINARY || sample 271552/327(271879) || SUCCESS results-logistic-binary 
+132214_0|| DATE || DATE TO BINARY || sample 271856/23(271879) || SUCCESS results-logistic-binary 
+132216_0|| DATE || DATE TO BINARY || sample 271081/798(271879) || SUCCESS results-logistic-binary 
+132218_0|| DATE || DATE TO BINARY || sample 271842/37(271879) || SUCCESS results-logistic-binary 
+132220_0|| DATE || DATE TO BINARY || sample 270958/921(271879) || SUCCESS results-logistic-binary 
+132222_0|| DATE || DATE TO BINARY || sample 271712/167(271879) || SUCCESS results-logistic-binary 
+132224_0|| DATE || DATE TO BINARY || sample 270737/1142(271879) || SUCCESS results-logistic-binary 
+132226_0|| DATE || DATE TO BINARY || sample 271795/84(271879) || SUCCESS results-logistic-binary 
+132228_0|| DATE || DATE TO BINARY || sample 271710/169(271879) || SUCCESS results-logistic-binary 
+132230_0|| DATE || DATE TO BINARY || sample 271236/643(271879) || SUCCESS results-logistic-binary 
+132232_0|| DATE || DATE TO BINARY || sample 271726/153(271879) || SUCCESS results-logistic-binary 
+132234_0|| DATE || DATE TO BINARY || sample 271762/117(271879) || SUCCESS results-logistic-binary 
+132236_0|| DATE || DATE TO BINARY || sample 271852/27(271879) || SUCCESS results-logistic-binary 
+132238_0|| DATE || DATE TO BINARY || sample 271473/406(271879) || SUCCESS results-logistic-binary 
+132240_0|| DATE || DATE TO BINARY || sample 271246/633(271879) || SUCCESS results-logistic-binary 
+132242_0|| DATE || DATE TO BINARY || sample 271162/717(271879) || SUCCESS results-logistic-binary 
+132244_0|| DATE || DATE TO BINARY || sample 271421/458(271879) || SUCCESS results-logistic-binary 
+132246_0|| DATE || DATE TO BINARY || sample 271779/100(271879) || SUCCESS results-logistic-binary 
+132248_0|| DATE || DATE TO BINARY || sample 271598/281(271879) || SUCCESS results-logistic-binary 
+132250_0|| DATE || DATE TO BINARY || sample 270746/1133(271879) || SUCCESS results-logistic-binary 
+132252_0|| DATE || DATE TO BINARY || sample 271637/242(271879) || SUCCESS results-logistic-binary 
+132254_0|| DATE || DATE TO BINARY || sample 271856/23(271879) || SUCCESS results-logistic-binary 
+132256_0|| DATE || DATE TO BINARY || sample 271676/203(271879) || SUCCESS results-logistic-binary 
+132258_0|| DATE || DATE TO BINARY || sample 271803/76(271879) || SUCCESS results-logistic-binary 
+132260_0|| DATE || DATE TO BINARY || sample 269872/2007(271879) || SUCCESS results-logistic-binary 
+132262_0|| DATE || DATE TO BINARY || sample 271487/392(271879) || SUCCESS results-logistic-binary 
+132264_0|| DATE || DATE TO BINARY || sample 268589/3290(271879) || SUCCESS results-logistic-binary 
+132266_0|| DATE || DATE TO BINARY || sample 271733/146(271879) || SUCCESS results-logistic-binary 
+132268_0|| DATE || DATE TO BINARY || sample 270877/1002(271879) || SUCCESS results-logistic-binary 
+132270_0|| DATE || DATE TO BINARY || sample 271749/130(271879) || SUCCESS results-logistic-binary 
+132272_0|| DATE || DATE TO BINARY || sample 271862/17(271879) || SUCCESS results-logistic-binary 
+132274_0|| DATE || DATE TO BINARY || sample 271432/447(271879) || SUCCESS results-logistic-binary 
+132276_0|| DATE || DATE TO BINARY || sample 263546/8333(271879) || SUCCESS results-logistic-binary 
+132278_0|| DATE || DATE TO BINARY || sample 270776/1103(271879) || SUCCESS results-logistic-binary 
+132280_0|| DATE || DATE TO BINARY || sample 270468/1411(271879) || SUCCESS results-logistic-binary 
+132282_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+132284_0|| DATE || DATE TO BINARY || sample 271868/11(271879) || SUCCESS results-logistic-binary 
+132286_0|| DATE || DATE TO BINARY || sample 271836/43(271879) || SUCCESS results-logistic-binary 
+132288_0|| DATE || DATE TO BINARY || sample 271731/148(271879) || SUCCESS results-logistic-binary 
+132290_0|| DATE || DATE TO BINARY || sample 271811/68(271879) || SUCCESS results-logistic-binary 
+132292_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+132294_0|| DATE || DATE TO BINARY || sample 271861/18(271879) || SUCCESS results-logistic-binary 
+132296_0|| DATE || DATE TO BINARY || sample 271720/159(271879) || SUCCESS results-logistic-binary 
+132298_0|| DATE || DATE TO BINARY || sample 271725/154(271879) || SUCCESS results-logistic-binary 
+132300_0|| DATE || DATE TO BINARY || sample 271765/114(271879) || SUCCESS results-logistic-binary 
+132302_0|| DATE || DATE-SKIP-10 (271872 vs 7) || 
+132306_0|| DATE || DATE-SKIP-10 (271879 vs 0) || 
+132310_0|| DATE || DATE TO BINARY || sample 271842/37(271879) || SUCCESS results-logistic-binary 
+132312_0|| DATE || DATE TO BINARY || sample 270699/1180(271879) || SUCCESS results-logistic-binary 
+132314_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+132318_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+132320_0|| DATE || DATE TO BINARY || sample 271783/96(271879) || SUCCESS results-logistic-binary 
+132322_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132324_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+132326_0|| DATE || DATE TO BINARY || sample 271864/15(271879) || SUCCESS results-logistic-binary 
+132328_0|| DATE || DATE-SKIP-10 (271874 vs 5) || 
+132330_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132332_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132334_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+132336_0|| DATE || DATE-SKIP-10 (271875 vs 4) || 
+132338_0|| DATE || DATE TO BINARY || sample 271866/13(271879) || SUCCESS results-logistic-binary 
+132340_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+132342_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+132344_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+132346_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+132348_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132350_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+132352_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132354_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132356_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132358_0|| DATE || DATE-SKIP-10 (271871 vs 8) || 
+132360_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+132362_0|| DATE || DATE TO BINARY || sample 271867/12(271879) || SUCCESS results-logistic-binary 
+132364_0|| DATE || DATE TO BINARY || sample 271853/26(271879) || SUCCESS results-logistic-binary 
+132366_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+132368_0|| DATE || DATE TO BINARY || sample 271868/11(271879) || SUCCESS results-logistic-binary 
+132370_0|| DATE || DATE TO BINARY || sample 271868/11(271879) || SUCCESS results-logistic-binary 
+132372_0|| DATE || DATE-SKIP-10 (271879 vs 0) || 
+132374_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+132376_0|| DATE || DATE-SKIP-10 (271879 vs 0) || 
+132378_0|| DATE || DATE-SKIP-10 (271877 vs 2) || 
+132380_0|| DATE || DATE-SKIP-10 (271875 vs 4) || 
+132382_0|| DATE || DATE-SKIP-10 (271872 vs 7) || 
+132388_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132390_0|| DATE || DATE TO BINARY || sample 271869/10(271879) || SUCCESS results-logistic-binary 
+132394_0|| DATE || DATE-SKIP-10 (271875 vs 4) || 
+132396_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132398_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132408_0 || Variable could not be found in pheno info file. 
+132410_0|| DATE || DATE-SKIP-10 (271879 vs 0) || 
+132416_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+132420_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132422_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+132426_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132428_0|| DATE || DATE TO BINARY || sample 271800/79(271879) || SUCCESS results-logistic-binary 
+132430_0|| DATE || DATE TO BINARY || sample 271765/114(271879) || SUCCESS results-logistic-binary 
+132432_0|| DATE || DATE-SKIP-10 (271879 vs 0) || 
+132434_0|| DATE || DATE-SKIP-10 (271872 vs 7) || 
+132436_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132438_0|| DATE || DATE TO BINARY || sample 271844/35(271879) || SUCCESS results-logistic-binary 
+132440_0|| DATE || DATE TO BINARY || sample 271818/61(271879) || SUCCESS results-logistic-binary 
+132442_0|| DATE || DATE TO BINARY || sample 271638/241(271879) || SUCCESS results-logistic-binary 
+132444_0|| DATE || DATE TO BINARY || sample 271853/26(271879) || SUCCESS results-logistic-binary 
+132446_0|| DATE || DATE TO BINARY || sample 271784/95(271879) || SUCCESS results-logistic-binary 
+132448_0|| DATE || DATE TO BINARY || sample 271787/92(271879) || SUCCESS results-logistic-binary 
+132450_0|| DATE || DATE TO BINARY || sample 271862/17(271879) || SUCCESS results-logistic-binary 
+132452_0|| DATE || DATE TO BINARY || sample 271683/196(271879) || SUCCESS results-logistic-binary 
+132454_0|| DATE || DATE TO BINARY || sample 271840/39(271879) || SUCCESS results-logistic-binary 
+132456_0|| DATE || DATE TO BINARY || sample 271699/180(271879) || SUCCESS results-logistic-binary 
+132458_0|| DATE || DATE TO BINARY || sample 271845/34(271879) || SUCCESS results-logistic-binary 
+132460_0|| DATE || DATE TO BINARY || sample 271838/41(271879) || SUCCESS results-logistic-binary 
+132462_0|| DATE || DATE TO BINARY || sample 271814/65(271879) || SUCCESS results-logistic-binary 
+132464_0|| DATE || DATE TO BINARY || sample 271755/124(271879) || SUCCESS results-logistic-binary 
+132466_0|| DATE || DATE TO BINARY || sample 271865/14(271879) || SUCCESS results-logistic-binary 
+132468_0|| DATE || DATE TO BINARY || sample 271016/863(271879) || SUCCESS results-logistic-binary 
+132470_0|| DATE || DATE TO BINARY || sample 271842/37(271879) || SUCCESS results-logistic-binary 
+132472_0|| DATE || DATE TO BINARY || sample 271394/485(271879) || SUCCESS results-logistic-binary 
+132474_0|| DATE || DATE TO BINARY || sample 271601/278(271879) || SUCCESS results-logistic-binary 
+132476_0|| DATE || DATE TO BINARY || sample 271715/164(271879) || SUCCESS results-logistic-binary 
+132478_0|| DATE || DATE TO BINARY || sample 271856/23(271879) || SUCCESS results-logistic-binary 
+132480_0|| DATE || DATE TO BINARY || sample 271656/223(271879) || SUCCESS results-logistic-binary 
+132482_0|| DATE || DATE TO BINARY || sample 271707/172(271879) || SUCCESS results-logistic-binary 
+132484_0|| DATE || DATE TO BINARY || sample 271814/65(271879) || SUCCESS results-logistic-binary 
+132486_0|| DATE || DATE TO BINARY || sample 271834/45(271879) || SUCCESS results-logistic-binary 
+132488_0|| DATE || DATE TO BINARY || sample 271864/15(271879) || SUCCESS results-logistic-binary 
+132490_0|| DATE || DATE TO BINARY || sample 271838/41(271879) || SUCCESS results-logistic-binary 
+132492_0|| DATE || DATE-SKIP-10 (271872 vs 7) || 
+132494_0|| DATE || DATE TO BINARY || sample 271855/24(271879) || SUCCESS results-logistic-binary 
+132496_0|| DATE || DATE-SKIP-10 (271874 vs 5) || 
+132498_0|| DATE || DATE TO BINARY || sample 271857/22(271879) || SUCCESS results-logistic-binary 
+132500_0|| DATE || DATE TO BINARY || sample 271472/407(271879) || SUCCESS results-logistic-binary 
+132502_0|| DATE || DATE TO BINARY || sample 271680/199(271879) || SUCCESS results-logistic-binary 
+132504_0|| DATE || DATE TO BINARY || sample 271654/225(271879) || SUCCESS results-logistic-binary 
+132506_0|| DATE || DATE-SKIP-10 (271876 vs 3) || 
+132508_0|| DATE || DATE TO BINARY || sample 271865/14(271879) || SUCCESS results-logistic-binary 
+132510_0|| DATE || DATE TO BINARY || sample 271517/362(271879) || SUCCESS results-logistic-binary 
+132512_0|| DATE || DATE TO BINARY || sample 271687/192(271879) || SUCCESS results-logistic-binary 
+132514_0|| DATE || DATE TO BINARY || sample 271830/49(271879) || SUCCESS results-logistic-binary 
+132516_0|| DATE || DATE TO BINARY || sample 271704/175(271879) || SUCCESS results-logistic-binary 
+132518_0|| DATE || DATE TO BINARY || sample 271679/200(271879) || SUCCESS results-logistic-binary 
+132520_0|| DATE || DATE TO BINARY || sample 271769/110(271879) || SUCCESS results-logistic-binary 
+132522_0|| DATE || DATE TO BINARY || sample 271573/306(271879) || SUCCESS results-logistic-binary 
+132524_0|| DATE || DATE TO BINARY || sample 271700/179(271879) || SUCCESS results-logistic-binary 
+132526_0|| DATE || DATE TO BINARY || sample 271784/95(271879) || SUCCESS results-logistic-binary 
+132528_0|| DATE || DATE-SKIP-10 (271879 vs 0) || 
+132530_0|| DATE || DATE TO BINARY || sample 271663/216(271879) || SUCCESS results-logistic-binary 
+132532_0|| DATE || DATE TO BINARY || sample 271243/636(271879) || SUCCESS results-logistic-binary 
+132534_0|| DATE || DATE TO BINARY || sample 271775/104(271879) || SUCCESS results-logistic-binary 
+132536_0|| DATE || DATE TO BINARY || sample 271449/430(271879) || SUCCESS results-logistic-binary 
+132538_0|| DATE || DATE TO BINARY || sample 271753/126(271879) || SUCCESS results-logistic-binary 
+132540_0|| DATE || DATE TO BINARY || sample 271641/238(271879) || SUCCESS results-logistic-binary 
+132542_0|| DATE || DATE TO BINARY || sample 271186/693(271879) || SUCCESS results-logistic-binary 
+132544_0|| DATE || DATE TO BINARY || sample 271679/200(271879) || SUCCESS results-logistic-binary 
+132546_0|| DATE || DATE TO BINARY || sample 271824/55(271879) || SUCCESS results-logistic-binary 
+132548_0|| DATE || DATE-SKIP-10 (271871 vs 8) || 
+132550_0|| DATE || DATE TO BINARY || sample 271852/27(271879) || SUCCESS results-logistic-binary 
+132552_0|| DATE || DATE TO BINARY || sample 271864/15(271879) || SUCCESS results-logistic-binary 
+132554_0|| DATE || DATE TO BINARY || sample 271852/27(271879) || SUCCESS results-logistic-binary 
+132556_0|| DATE || DATE-SKIP-10 (271875 vs 4) || 
+132558_0|| DATE || DATE TO BINARY || sample 271723/156(271879) || SUCCESS results-logistic-binary 
+132560_0|| DATE || DATE TO BINARY || sample 271856/23(271879) || SUCCESS results-logistic-binary 
+132562_0|| DATE || DATE TO BINARY || sample 271392/487(271879) || SUCCESS results-logistic-binary 
+132564_0|| DATE || DATE TO BINARY || sample 271859/20(271879) || SUCCESS results-logistic-binary 
+132566_0|| DATE || DATE TO BINARY || sample 271750/129(271879) || SUCCESS results-logistic-binary 
+132568_0|| DATE || DATE TO BINARY || sample 271684/195(271879) || SUCCESS results-logistic-binary 
+132570_0|| DATE || DATE TO BINARY || sample 271804/75(271879) || SUCCESS results-logistic-binary 
+132572_0|| DATE || DATE TO BINARY || sample 271862/17(271879) || SUCCESS results-logistic-binary 
+132574_0|| DATE || DATE TO BINARY || sample 270929/950(271879) || SUCCESS results-logistic-binary 
+132576_0|| DATE || DATE TO BINARY || sample 271799/80(271879) || SUCCESS results-logistic-binary 
+132578_0|| DATE || DATE TO BINARY || sample 271813/66(271879) || SUCCESS results-logistic-binary 
+132580_0|| DATE || DATE TO BINARY || sample 271661/218(271879) || SUCCESS results-logistic-binary 
+132582_0|| DATE || DATE-SKIP-10 (271878 vs 1) || 
+132584_0|| DATE || DATE TO BINARY || sample 271680/199(271879) || SUCCESS results-logistic-binary 
+132586_0|| DATE || DATE TO BINARY || sample 271631/248(271879) || SUCCESS results-logistic-binary 
+132588_0|| DATE || DATE TO BINARY || sample 271851/28(271879) || SUCCESS results-logistic-binary 
+132590_0|| DATE || DATE-SKIP-10 (271873 vs 6) || 
+132592_0|| DATE || DATE TO BINARY || sample 271868/11(271879) || SUCCESS results-logistic-binary 
+132594_0|| DATE || DATE-SKIP-10 (271870 vs 9) || 
+132596_0|| DATE || DATE-SKIP-10 (271875 vs 4) || 
+132598_0|| DATE || DATE TO BINARY || sample 271862/17(271879) || SUCCESS results-logistic-binary 
+132600_0|| DATE || DATE-SKIP-10 (271875 vs 4) || 
+132602_0|| DATE || DATE TO BINARY || sample 271868/11(271879) || SUCCESS results-logistic-binary 
+132604_0|| DATE || DATE TO BINARY || sample 271831/48(271879) || SUCCESS results-logistic-binary 
