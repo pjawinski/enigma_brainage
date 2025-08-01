@@ -2,7 +2,7 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-pjawinski.bsky.social-blue?logo=bluesky)](https://bsky.app/profile/pjawinski.bsky.social)
 
 # ENIGMA brainageFactor analysis
-This repository contains the analysis scripts used to reproduce the UK Biobank-related results from our article "Cross-trait genetic architecture across six brain age models". The individual-level data used in this project were obtained from the [UK Biobank](https://www.ukbiobank.ac.uk/) under application number 42032. Details on sample selection and genetic data preprocessing were based on the workflow described in our previous UKB project, "Genome-wide analysis of brain age gap identifies 59 associated loci and unveils relationships with mental and physical health", available at https://github.com/pjawinski/ukb_brainage.
+This repository contains the analysis scripts used to reproduce the UK Biobank-related results from our article "Cross-trait genetic architecture across six brain age models". The individual-level data used in this project were obtained from the [UK Biobank](https://www.ukbiobank.ac.uk/) under application number 42032. Details on sample selection and genetic data preprocessing were based on the workflow described in our previous UKB project, "Genome-wide analysis of brain age gap identifies 59 associated loci and unveils relationships with mental and physical health", available [here](https://github.com/pjawinski/ukb_brainage).
 
 ## Folder structure
 [code/](code/) - preparation scripts, helper functions, and analysis workflows  <br>
