@@ -1,0 +1,2 @@
+pgsMethod	estimate	R2	statistic	df	p.value	n	gp	Method
+kaufmann	0.0639321503008023	0.00408731984208437	1.08907453203042	272	0.2916510805846	291	17	pearson

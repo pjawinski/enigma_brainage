@@ -1,0 +1,2 @@
+pgsMethod	estimate	R2	statistic	df	p.value	n	gp	Method
+enigma	0.16399741681137	0.0268951527208021	4.01757148521051	567	8.49512965839967e-05	586	17	pearson

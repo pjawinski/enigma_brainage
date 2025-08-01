@@ -1,0 +1,2 @@
+pgsMethod	estimate	R2	statistic	df	p.value	n	gp	Method
+leonardsen	-0.00541395001759083	2.93108547929718e-05	-0.0959368447392865	297	0.925725207519615	316	17	pearson

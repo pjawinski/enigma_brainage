@@ -1,0 +1,2 @@
+pgsMethod	estimate	R2	statistic	df	p.value	n	gp	Method
+jawinski	0.136842838714978	0.0187259625075736	2.52842062341456	318	0.0142905790309652	337	17	pearson

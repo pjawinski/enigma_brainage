@@ -1,0 +1,2 @@
+pgsMethod	estimate	R2	statistic	df	p.value	n	gp	Method
+brainageFactor	0.0855151945072672	0.00731284849161574	1.52090438322096	297	0.140157249421272	316	17	pearson
