@@ -17,10 +17,6 @@ for env in default phesant; do
 done
 conda activate envs/default
 
-# make sure that R does not use Intel Math Kernel Libraries (libmkl_rt.so.1)
-# - libopenblasp-r0.3.28.so used!
-Rscript -e "sessionInfo()"
-
 #!/usr/bin/env Rscript
 # ==========================================================
 # === Extract FreeSurfer variables from UKB tabular data === 
