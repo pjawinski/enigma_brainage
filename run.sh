@@ -15,12 +15,6 @@ for env in default phesant; do
 		mamba env create --file envs/${env}.yml -p envs/${env}
 	fi
 done
-
-
-# prepare 'default' conda environment
-mamba create -p envs/default -c conda-forge python=3.9 r-base r-data.table r-dplyr r-stringr r-ggplot2 r-readxl
-conda env export --no-builds -p envs/default > envs/default.yml
-awk 'NR==1 { print "name: default"; next } $1=="prefix:" { $2="default"; print; next} { print }' envs/default.yml > tmp && \mv tmp envs/default.yml
 conda activate envs/default
 
 # make sure that R does not use Intel Math Kernel Libraries (libmkl_rt.so.1)
@@ -35,11 +29,6 @@ message('\n--- Extracting FreeSurfer variables from UKB tabular data ---')
 
 # load required packages
 library(dplyr)
-
-# deprecated: load 2024 basket data
-# message(' - loading r2024 basket data.')
-# load("data/basket/20240307_4017567/data/ukb678162.RData")
-# bd2024 = bd
 
 # load 2024 basket data
 message(' - loading dnanexus data (release 31/03/2025).')
