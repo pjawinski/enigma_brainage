@@ -1,0 +1,2 @@
+N	mean_age	sd_age	min_age	max_age	females	males
+271879	57.71715	8.01793	39.91324	73.69083	147440	124439

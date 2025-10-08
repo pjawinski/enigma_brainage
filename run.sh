@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # =============
 # === setup ===
 # =============
@@ -132,19 +131,91 @@ write.csv(sv,'code/ENIGMA-brainage-local/SubcorticalMeasuresENIGMA_VolAvg.csv', 
 # === run photon.ai models in singularity container ===
 # =====================================================
 
-# needs to be added
+# Use GitBash to install singularity under windows
+# Git for Windows: https://git-for-windows.github.io/
+# VirtualBox for Windows: https://www.virtualbox.org/wiki/Downloads
+# Vagrant for Windows: https://www.vagrantup.com/downloads.html
+# Vagrant Manager for Windows: http://vagrantmanager.com/downloads/
 
+# set working directory
+cd C:/Users/jawin
 
-#!/usr/bin/env Rscript
-# ================================================================================
-# === This script will save the phenotype and covariates in "pheno_covars.txt" ===
-# ================================================================================
+# install virtual machine with singularity
+mkdir vm-singularity
+cd vm-singularity
+export VM=sylabs/singularity-3.0-ubuntu-bionic64
+vagrant init $VM
+
+# edit configurations file: add shared folder
+cat Vagrantfile |
+	sed 's%# config.vm.synced_folder "../data", "/vagrant_data"%config.vm.synced_folder "C:/Users/jawin/Desktop/research", "/home/vagrant/shared"%g' \
+	> Vagrantfile.tmp
+\mv Vagrantfile.tmp Vagrantfile
+
+# access virtual machine and show singularity version
+cd /c/Users/jawin/vm-singularity
+vagrant up
+vagrant ssh
+singularity version
+
+# copy files from shared folder to vagrant vm (required due to file system differences)
+cp -R shared/enigma_brainage .
+\mv enigma_brainage/*.csv enigma_brainage/ENIGMA-brainage-local/
+
+# mount singularity container
+cd enigma_brainage/ENIGMA-brainage-local
+singularity shell enigma-container-with-r2.sif
+
+# run Script 1 
+# will produce 'males_raw.csv' and 'females_raw.csv' files and save them in 'rawfiles' folder
+/usr/bin/Rscript scripts/1_protocol_brainAge_ENIGMA_local_20241216.R
+
+# run Script 2
+# will produce 'males_raw_out.csv' and 'females_raw.csv_out' files and save them in 'enigma-predictions' folder
+# Output files look just like your input files with an additional column called 'age_prediction'.
+mkdir -p enigma-predictions
+python3 scripts/2_protocol_brainAge_ENIGMA_local_20241216.py \
+--modelfolder photon_models \
+--rawfolder rawfiles \
+--predictionfolder enigma-predictions
+
+# Run Script 3
+# will produce descriptives and regression model outputs
+/usr/bin/Rscript scripts/3_protocol_brainAge_ENIGMA_local_20241216.R
+
+# Run Script 4
+# will obtain correlations for brainAge and each FreeSurfer ROI
+/usr/bin/Rscript scripts/4_protocol_brainAge_ENIGMA_local_20211211.R
+
+# Move all files to output folders 
+mkdir -p output-pheno output-backup 
+mv data_pheno_covariates.Rdata data_covs_tsv.Rdata df_covs_tsv.rds output-backup/ 
+mv *.log *.txt *.rds *.pdf *.R?ata output-pheno/ 
+
+# Compress the 'output-pheno' folder (saved as UKBB_[date].zip) 
+zip -r "UKBB_pheno_$(date +'%Y%m%d').zip" output-pheno 
+zip -r "UKBB_backup_$(date +'%Y%m%d').zip" output-backup
+
+# copy .zip file and predictions to shared directory
+cp "UKBB_pheno_$(date +'%Y%m%d').zip" /home/vagrant/shared/enigma_brainage/results/
+cp "UKBB_backup_$(date +'%Y%m%d').zip" /home/vagrant/shared/enigma_brainage/results/
+cp -r "enigma-predictions" /home/vagrant/shared/enigma_brainage/results/
+
+#!/usr/bin/bash
+# ======================================
+# === extract photon.ai output files ===
+# ======================================
 
 # unzip files produced by photon.ai scripts
 cd /slow/projects/enigma_brainage/results
 unzip UKBB_backup_20250408.zip
 unzip UKBB_pheno_20250408.zip
 cd ..
+
+#!/usr/bin/env Rscript
+# ================================================================================
+# === This script will save the phenotype and covariates in "pheno_covars.txt" ===
+# ================================================================================
 
 # load required packages
 library(dplyr)
@@ -668,7 +739,72 @@ hubox FILELINK "${files}"
 # === create phenotypic plots for selected individuals === 
 # ========================================================
 
-# needs to be added
+# access virtual machine under windows
+cd /c/Users/jawin/vm-singularity
+vagrant up
+vagrant ssh
+singularity version
+
+# copy files from shared folder to vagrant vm (required due to file system differences)
+cp shared/enigma_brainage/results/pheno_covars_discov*  enigma_brainage/results/
+
+# mount singularity container
+cd enigma_brainage/ENIGMA-brainage-local
+singularity shell enigma-container-with-r2.sif
+
+# create output for selected samples
+for sample in discov1 discov2 discov1-2; do
+wc -l /home/vagrant/enigma_brainage/results/pheno_covars_${sample}.txt
+for file in CorticalMeasuresENIGMA_SurfAvg.csv CorticalMeasuresENIGMA_ThickAvg.csv SubcorticalMeasuresENIGMA_VolAvg.csv Covariates.csv; do
+awk -F',' 'NR==1 { next } NR==FNR { id_current=$0;  sub(/ .*/, "", id_current); id[id_current]; next }
+	 FILENAME !~ /backup_Covariates.csv/ && FNR==1 { print; next }
+	 FILENAME ~ /backup_Covariates.csv/ && FNR==1 { for (i = 1; i <= NF; i++) { if ($i == "\"ANCESTRY\"") ancestry_col = i; if ($i == "\"ETHNICITY\"") ethnicity_col = i }; print; next }
+	 FILENAME !~ /backup_Covariates.csv/ { if ($1 in id) { print; next } }
+	 FILENAME ~ /backup_Covariates.csv/ { if ($1 in id) { $ancestry_col = "NA"; $ethnicity_col = "NA"; print; next } }' OFS="," /home/vagrant/enigma_brainage/results/pheno_covars_${sample}.txt backup_${file} \
+ > ${file}
+ wc -l $file
+done
+done
+
+# run Script 1
+# will produce 'males_raw.csv' and 'females_raw.csv' files and save them in 'rawfiles' folder
+/usr/bin/Rscript scripts/1_protocol_brainAge_ENIGMA_local_20241216.R
+
+# run Script 2
+# will produce 'males_raw_out.csv' and 'females_raw.csv_out' files and save them in 'enigma-predictions' folder
+# Output files look just like your input files with an additional column called 'age_prediction'.
+rm -rf enigma-predictions
+mkdir -p enigma-predictions
+python3 scripts/2_protocol_brainAge_ENIGMA_local_20241216.py \
+--modelfolder photon_models \
+--rawfolder rawfiles \
+--predictionfolder enigma-predictions
+cp Covariates.csv enigma-predictions
+
+# Run Script 3
+# will produce descriptives and regression model outputs
+/usr/bin/Rscript scripts/3_protocol_brainAge_ENIGMA_local_20241216.R
+
+# Run Script 4
+# will obtain correlations for brainAge and each FreeSurfer ROI
+/usr/bin/Rscript scripts/4_protocol_brainAge_ENIGMA_local_20211211.R
+
+# Move all files to output folders
+rm -rf output-pheno output-backup
+mkdir -p output-pheno output-backup
+mv data_pheno_covariates.Rdata data_covs_tsv.Rdata df_covs_tsv.rds output-backup/ 
+mv *.log *.txt *.rds *.pdf *.R?ata output-pheno/ 
+
+# Compress the 'output-pheno' folder (saved as UKBB_[date].zip) 
+zip -r "UKBB_${sample}_pheno_$(date +'%Y%m%d').zip" output-pheno 
+zip -r "UKBB_${sample}_backup_$(date +'%Y%m%d').zip" output-backup
+
+# copy .zip file and predictions to shared directory
+cp "UKBB_${sample}_pheno_$(date +'%Y%m%d').zip" /home/vagrant/shared/enigma_brainage/results/
+cp "UKBB_${sample}_backup_$(date +'%Y%m%d').zip" /home/vagrant/shared/enigma_brainage/results/
+rm -rf "/home/vagrant/shared/enigma_brainage/results/enigma-predictions-${sample}"
+cp -r "enigma-predictions" "/home/vagrant/shared/enigma_brainage/results/enigma-predictions-${sample}"
+done
 
 # ====================
 # === PGS analysis === 
@@ -846,6 +982,27 @@ paste \
   <(awk -F'\t' '{print "", $4, $3, $5, $8, $7}' OFS="\t" results/pgs/pgs.BAGjawinski.assoc.txt) \
   > results/pgs/pgs.assoc.txt
 
+# get demograph stats for replication samples
+Rscript -e "\
+library(dplyr)
+eur = read.delim('results/pgs/pgs.phenotypes.eur.txt', header = T);
+all = read.delim('results/pgs/pgs.phenotypes.all.txt', header = T);
+all = all[all\$pan %in% c('AFR','CSA','EAS'),] 
+df = rbind(eur,all)
+results = df %>%
+  group_by(pan) %>%
+  summarise(
+    N = n(),
+    mean_age = mean(age, na.rm = TRUE) %>% round(5),
+    sd_age = sd(age, na.rm = TRUE) %>% round(5),
+    min_age = min(age, na.rm = TRUE) %>% round(5),
+    max_age = max(age, na.rm = TRUE) %>% round(5),
+    females = sum(sex == 1, na.rm = TRUE),
+    males = sum(sex == 2, na.rm = TRUE)
+  )
+write.table(results, 'results/pgs/pgs.demographics.txt', sep= '\t', row.names = FALSE, quote = FALSE)"
+cat results/pgs/pgs.demographics.txt
+
 # =======================
 # === PheWAS analysis === 
 # =======================
@@ -961,4 +1118,20 @@ phesantPlot="" # $(IFS=,; for trait in $traits; do echo -n "results/phewas/${tra
 outputFile="results/phewas/mergedInstances/phewas"
 code/phesant.combine.R "${traits}" "${phesantSummary}" "${phesantPlot}" "${outputFile}"
 
+# get demographics
+Rscript -e "\
+library(dplyr)
+df = read.delim('results/phewas/sample/r2025.vars.discovery', header = T);
+results = df %>%
+  summarise(
+    N = n(),
+    mean_age = mean(age, na.rm = TRUE) %>% round(5),
+    sd_age = sd(age, na.rm = TRUE) %>% round(5),
+    min_age = min(age, na.rm = TRUE) %>% round(5),
+    max_age = max(age, na.rm = TRUE) %>% round(5),
+    females = sum(sex == 0, na.rm = TRUE),
+    males = sum(sex == 1, na.rm = TRUE)
+  )
+write.table(results, 'results/phewas/phewas.demographics.txt', sep= '\t', row.names = FALSE, quote = FALSE)"
+cat results/phewas/phewas.demographics.txt
 
