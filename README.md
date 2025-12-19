@@ -1,8 +1,10 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5b75cbd059774762b4ac2a184e37386d)](https://app.codacy.com/gh/pjawinski/enigma_brainage/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![ENIGMA | Brain Age](https://img.shields.io/badge/ENIGMA-Brain%20Age-brightgreen)](https://enigma.ini.usc.edu/ongoing/enigma-brain-age/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-pjawinski.bsky.social-blue?logo=bluesky)](https://bsky.app/profile/pjawinski.bsky.social)
 
-# ENIGMA brainageFactor analysis
-This repository contains the analysis scripts to reproduce the UK Biobank-related results from our article "Cross-trait genetic architecture across six brain age models". The individual-level data used in this project were obtained from the [UK Biobank](https://www.ukbiobank.ac.uk/) under application number 42032. Details on sample selection and genetic data preprocessing were based on the workflow described in our previous UKB project, "Genome-wide analysis of brain age gap identifies 59 associated loci and unveils relationships with mental and physical health", available [here](https://github.com/pjawinski/ukb_brainage).
+# ENIGMA brainage factor analysis
+This repository contains the analysis scripts to reproduce the UK Biobank-related results from our article **"Shared genetic architecture of brain age gap across 30 cohorts worldwide"**. The individual-level data used in this project were obtained from the [UK Biobank](https://www.ukbiobank.ac.uk/) under application number 42032. Details on UK Biobank sample selection and genetic data preprocessing follow the workflow described in our previous [Nature Aging article](https://doi.org/10.1038/s43587-025-00962-7), with the corresponding code available [here](https://github.com/pjawinski/ukb_brainage). Complementary genetic analyses conducted in independent and multi-cohort ENIGMA datasets are available in [this related repository](https://github.com/VilteBaltra/genetic-architecture-of-brain-age-gap).
 
 ## Folder structure
 [code/](code/) - preparation scripts, helper functions, and analysis workflows  <br>
@@ -33,7 +35,8 @@ cd enigma_brainage
 
 - For genetics file preparation, follow the scripts of our previous brain age project [code/prepare.genetics.sh](https://github.com/pjawinski/ukb_brainage/blob/main/code/prepare.genetics.sh)
 - For a step-by-step overview of the analysis workflow, refer to the main analysis script: [run.sh](run.sh)
+> **Note:** Direct downloads of genetic data are deprecated. All data access and preprocessing must now be performed using the [UK Biobank Research Analysis Platform (RAP)](https://www.ukbiobank.ac.uk/enable-your-research/research-analysis-platform).
 
 ## Contact
-Philippe Jawinski | Humboldt-Universität zu Berlin | philippe.jawinski[at]hu-berlin.de <br>
-Sebastian Markett | Humboldt-Universität zu Berlin | sebastian.markett[at]hu-berlin.de
+Philippe Jawinski | Humboldt-Universität zu Berlin, Germany | philippe.jawinski[at]hu-berlin.de <br>
+Vilte Baltramonaityte | University of Bath, United Kingdom | vb506[at]bath.ac.uk
