@@ -3,12 +3,8 @@
 # === setup ===
 # =============
 
-# create some symbolic links
-cd /slow/projects/enigma_brainage/
-ln -s /fast/UK_Biobank/02_data_standard data/basket
-ln -s /fast/UK_Biobank/04_data_genetics_linux/ data/genetics
-
 # install conda environments
+cd /slow/projects/enigma_brainage/
 for env in default phesant; do
 	if [ ! -d "envs/${env}" ]; then
 		mamba env create --file envs/${env}.yml -p envs/${env}
@@ -16,7 +12,7 @@ for env in default phesant; do
 done
 conda activate envs/default
 
-#!/usr/bin/env Rscript
+#!/bin/env Rscript
 # ==========================================================
 # === Extract FreeSurfer variables from UKB tabular data === 
 # ==========================================================
@@ -201,7 +197,7 @@ cp "UKBB_pheno_$(date +'%Y%m%d').zip" /home/vagrant/shared/enigma_brainage/resul
 cp "UKBB_backup_$(date +'%Y%m%d').zip" /home/vagrant/shared/enigma_brainage/results/
 cp -r "enigma-predictions" /home/vagrant/shared/enigma_brainage/results/
 
-#!/usr/bin/bash
+#!/bin/bash
 # ======================================
 # === extract photon.ai output files ===
 # ======================================
@@ -212,7 +208,7 @@ unzip UKBB_backup_20250408.zip
 unzip UKBB_pheno_20250408.zip
 cd ..
 
-#!/usr/bin/env Rscript
+#!/bin/env Rscript
 # ================================================================================
 # === This script will save the phenotype and covariates in "pheno_covars.txt" ===
 # ================================================================================
@@ -266,9 +262,9 @@ write.table(discov1_2_male, file = 'results/output-backup/pheno_covars_discov1-2
 write.table(discov1_2_female, file = 'results/output-backup/pheno_covars_discov1-2_female.txt', sep = " ", col.names = T, row.names = F, quote = F)
 
 #!/bin/bash
-# ===================================================================================
-# === Prepare genetics for ukbb.discovery1, ukbb.discovery, and ukbb.discovery1-2 === 
-# ===================================================================================
+# ====================================================================================
+# === Prepare genetics for ukbb.discovery1, ukbb.discovery2, and ukbb.discovery1-2 === 
+# ====================================================================================
 
 # create bgen-1.2 with 8 bits (instead of 16)
 for sample in "" "_EUR" "_EURjoined"; do # ukbb.discovery1: "" | ukbb.discovery2: "_EUR" | ukbb.discovery1-2: "_EURjoined"
@@ -325,6 +321,7 @@ cat $(for i in {1..22} X; do echo "data/genetics/chr${i}/imp_mri_qc/bed/pruned/c
 cat $(for i in {1..22} X; do echo "data/genetics/chr${i}/imp_mri_qc_EUR/bed/pruned/chr${i}_mri_qc_pruned.bim"; done) | wc -l # 536,967 remaining (including column header) in ukbb.discovery2
 cat $(for i in {1..22} X; do echo "data/genetics/chr${i}/imp_mri_qc_EURjoined/bed/pruned/chr${i}_mri_qc_pruned.bim"; done) | wc -l # 537,793 remaining (including column header) in ukbb.discovery2
 
+#!/bin/bash
 # =======================================
 # === Run BOLT-LMM in ukbb.discovery1 === 
 # =======================================
@@ -456,6 +453,7 @@ pigz -f "${targetDir}"/ukbb.discov1.chr1-23_non_imputed_devAge_male.stats
 pigz -f "${targetDir}"/ukbb.discov1.chr1-23_imputed_devAge_male.stats
 rm -rf ${targetDir}/tmp
 
+#!/bin/bash
 # =======================================
 # === Run BOLT-LMM in ukbb.discovery2 === 
 # =======================================
@@ -583,6 +581,7 @@ done
 chmod 770 ${targetDir}/*
 rm -rf ${targetDir}/tmp
 
+#!/bin/bash
 # =========================================
 # === Run BOLT-LMM in ukbb.discovery1+2 === 
 # =========================================
@@ -710,31 +709,7 @@ done
 chmod 770 ${targetDir}/*
 rm -rf ${targetDir}/tmp
 
-# ==============================================================================================================
-# === prepare Jawinski et al. summary statistics for Genomic SEM (excluding 2k individuals for pgs analysis) ===
-# ==============================================================================================================
-
-# set working directory
-cd /slow/projects/enigma_brainage
-conda activate envs/default
-
-# prepare summary statistics for zenodo
-targetDir="data/brainage_sumstats/"
-mkdir -p "${targetDir}"
-for tissue in wm gm gwm; do
-	echo "Starting with gap_${tissue}"
-
-	# discovery & replication (excluding 2k individual)
-	awk '$2!="MT"' <(pigz -dc "/slow/projects/ukb_brainage/results/gap_${tissue}/gwama/eur/eur.excl.2k/metal.ivweight.qc.gz") > "${targetDir}/brainage2025.full.eur.excl2k.${tissue}"
-	chmod 770 "${targetDir}/brainage2025.full.eur.excl2k.${tissue}"
-	pigz -f "${targetDir}/brainage2025.full.eur.excl2k.${tissue}"
-
-done
-
-# upload file
-files=$(ls ${targetDir}/brainage2025.full.eur.excl2k.*)
-hubox FILELINK "${files}"
-
+#!/bin/bash
 # ========================================================
 # === create phenotypic plots for selected individuals === 
 # ========================================================
@@ -806,6 +781,33 @@ rm -rf "/home/vagrant/shared/enigma_brainage/results/enigma-predictions-${sample
 cp -r "enigma-predictions" "/home/vagrant/shared/enigma_brainage/results/enigma-predictions-${sample}"
 done
 
+#!/bin/bash
+# ==============================================================================================================
+# === prepare Jawinski et al. summary statistics for Genomic SEM (excluding 2k individuals for pgs analysis) ===
+# ==============================================================================================================
+
+# set working directory
+cd /slow/projects/enigma_brainage
+conda activate envs/default
+
+# prepare summary statistics for zenodo
+targetDir="data/brainage_sumstats/"
+mkdir -p "${targetDir}"
+for tissue in wm gm gwm; do
+	echo "Starting with gap_${tissue}"
+
+	# discovery & replication (excluding 2k individual)
+	awk '$2!="MT"' <(pigz -dc "/slow/projects/ukb_brainage/results/gap_${tissue}/gwama/eur/eur.excl.2k/metal.ivweight.qc.gz") > "${targetDir}/brainage2025.full.eur.excl2k.${tissue}"
+	chmod 770 "${targetDir}/brainage2025.full.eur.excl2k.${tissue}"
+	pigz -f "${targetDir}/brainage2025.full.eur.excl2k.${tissue}"
+
+done
+
+# upload file
+files=$(ls ${targetDir}/brainage2025.full.eur.excl2k.*)
+hubox FILELINK "${files}"
+
+#!/bin/bash
 # ====================
 # === PGS analysis === 
 # ====================
@@ -914,13 +916,26 @@ for ((i=0; i<${#trait[@]}; i++)); do
 	./code/sbayes.sh "${targetDir}" "${sumstats[i]}" "${cols[i]}" "${ldmFolder}" "${annotFile}" "${threads}" "${sbayes}" "${imputation}" "${mcmc}" # taskset -c "${core}" d
 done
 
+	# prepare sbayesrc weight files for sharing
+	mkdir -p misc/share
+	gwas_in=(brainageFactor enigma jawinski kaufmann leonardsen smith wen)
+	gwas_out=(brainageFactor han jawinski kaufmann leonardsen smith wen)
+	for ((i=0; i<${#gwas_in[@]}; i++)); do
+		echo "Starting with ${gwas_out[i]}..."
+		zcat "results/pgsweights/${gwas_in[i]}/sbayesrc.snpRes.gz" > "misc/share/sbayesrc.${gwas_out[i]}.snpRes"
+		chmod 770 "misc/share/sbayesrc.${gwas_out[i]}.snpRes"
+		pigz -f "misc/share/sbayesrc.${gwas_out[i]}.snpRes"
+	done
+	cp code/pgs.predict.sh misc/share
+
+
 # calculate polygenic scores in held-out samples
 pgenFileHandlerBeta='data/genetics/chr${i}/imp_mri_qc_ANCESTRY/chr${i}_mri_qc'
-idCol="Name"
-a1Col="A1"
-effectCol="A1Effect"
-maf=0.01
-threads=100
+idCol="Name" # snp identifier column
+a1Col="A1" # effect allele column
+effectCol="A1Effect" # effect size column
+maf=0.01 # maf threshold
+threads=100 # number of threads for parallel computing
 mkdir -p results/pgs
 for ancestry in AFR CSA EAS EUR; do # do not use AMR and MID due to low sample sizes (n < 100)
 	for trait in enigma; do # brainageFactor enigma jawinski kaufmann leonardsen smith wen
@@ -982,7 +997,7 @@ paste \
   <(awk -F'\t' '{print "", $4, $3, $5, $8, $7}' OFS="\t" results/pgs/pgs.BAGjawinski.assoc.txt) \
   > results/pgs/pgs.assoc.txt
 
-# get demograph stats for replication samples
+# get demographics for replication samples
 Rscript -e "\
 library(dplyr)
 eur = read.delim('results/pgs/pgs.phenotypes.eur.txt', header = T);
@@ -1003,6 +1018,7 @@ results = df %>%
 write.table(results, 'results/pgs/pgs.demographics.txt', sep= '\t', row.names = FALSE, quote = FALSE)"
 cat results/pgs/pgs.demographics.txt
 
+#!/bin/bash
 # =======================
 # === PheWAS analysis === 
 # =======================
