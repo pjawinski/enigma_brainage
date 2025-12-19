@@ -3,8 +3,8 @@
 [![ENIGMA | Brain Age](https://img.shields.io/badge/ENIGMA-Brain%20Age-brightgreen)](https://enigma.ini.usc.edu/ongoing/enigma-brain-age/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-pjawinski.bsky.social-blue?logo=bluesky)](https://bsky.app/profile/pjawinski.bsky.social)
 
-# ENIGMA brainage factor analysis
-This repository contains the analysis scripts to reproduce the UK Biobank-related results from our article **"Shared genetic architecture of brain age gap across 30 cohorts worldwide"**. The individual-level data used in this project were obtained from the [UK Biobank](https://www.ukbiobank.ac.uk/) under application number 42032. Details on UK Biobank sample selection and genetic data preprocessing follow the workflow described in our previous [Nature Aging article](https://doi.org/10.1038/s43587-025-00962-7), with the corresponding code available [here](https://github.com/pjawinski/ukb_brainage). Complementary genetic analyses conducted in independent and multi-cohort ENIGMA datasets are available in [this related repository](https://github.com/VilteBaltra/genetic-architecture-of-brain-age-gap).
+# Genetic architecture of brain age gap
+This repository contains the analysis scripts to reproduce the UK Biobank-related results from our article **"Shared genetic architecture of brain age gap across 30 cohorts worldwide"**. The individual-level data used in this project were obtained from the [UK Biobank](https://www.ukbiobank.ac.uk/) under application number 42032. Details on UK Biobank sample selection and genetic data preprocessing follow the workflow described in our [previous article](https://doi.org/10.1038/s43587-025-00962-7), with the corresponding code available [here](https://github.com/pjawinski/ukb_brainage). This work contributes to the overarching multi-cohort ENIGMA genetic analyses available in [this related repository](https://github.com/VilteBaltra/genetic-architecture-of-brain-age-gap).
 
 ## Folder structure
 [code/](code/) - preparation scripts, helper functions, and analysis workflows  <br>
